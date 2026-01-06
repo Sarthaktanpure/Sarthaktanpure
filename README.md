@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sarthaktanpure/Sarthaktanpure/main/banner.png" width="100%" alt="Fullstack AI Banner" />
+  <img src="Sarthak.jpeg" width="100%" alt="Fullstack AI Banner" />
 </p>
 
 # <p align="center">✨ Hello World, I'm Sarthak ✨</p>
@@ -20,16 +20,17 @@
 
 I am a digital architect specializing in building **intelligent ecosystems**. I combine the precision of **Full Stack Development** with the predictive power of **Machine Learning** to create applications that don't just function—they think.
 
-* 🧠 **Neural Networks:** Designing custom architectures for CV and NLP tasks.
-* 🌐 **Scalable Web:** Building high-performance interfaces with React/Next.js and robust backends.
-* ⚡ **Performance:** Optimizing model inference and database queries for real-time speed.
-* 🎨 **Philosophy:** Beautiful UI outside, elegant algorithms inside.
+- 🧠 **Neural Networks:** Designing custom architectures for CV and NLP tasks.
+- 🌐 **Scalable Web:** Building high-performance interfaces with React/Next.js and robust backends.
+- ⚡ **Performance:** Optimizing model inference and database queries for real-time speed.
+- 🎨 **Philosophy:** Beautiful UI outside, elegant algorithms inside.
 
 ---
 
 ## 🛠️ My Tech Universe
 
 ### 🧠 AI / ML Intelligence
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -37,6 +38,7 @@ I am a digital architect specializing in building **intelligent ecosystems**. I 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌐 Full Stack Mastery
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -56,11 +58,11 @@ I am a digital architect specializing in building **intelligent ecosystems**. I 
 
 ## 🎨 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🧠 NeuroDash** | Real-time AI analytics dashboard with live inference streaming. | React, FastAPI, PyTorch |
-| **☁️ CloudVision** | Serverless object detection API deployed globally. | AWS Lambda, OpenCV, Terraform |
-| **💬 Semantic Chat** | A RAG-based chatbot using custom vector embeddings. | LangChain, Pinecone, Next.js |
+| Project              | Description                                                     | Tech Stack                    |
+| :------------------- | :-------------------------------------------------------------- | :---------------------------- |
+| **🧠 NeuroDash**     | Real-time AI analytics dashboard with live inference streaming. | React, FastAPI, PyTorch       |
+| **☁️ CloudVision**   | Serverless object detection API deployed globally.              | AWS Lambda, OpenCV, Terraform |
+| **💬 Semantic Chat** | A RAG-based chatbot using custom vector embeddings.             | LangChain, Pinecone, Next.js  |
 
 ---
 
