@@ -5,7 +5,7 @@
 # <p align="center">✨ Hello World, I'm Sarthak ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Fullstack%20%26%20AI/ML%20Engineer&fontSize=45&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Fullstack%20%26%20AI/ML%20Engineer&fontSize=45&animation=fadeIn&fontAlignY=38" width="25%" height="25%" />
 </p>
 
 <p align="center">
