@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Sarthak.jpeg" width="100%" alt="Fullstack AI Banner" />
+  <img src="Sarthaktanpure.png" width="100%" alt="Fullstack AI Banner" />
 </p>
 
 # <p align="center">✨ Hello World, I'm Sarthak ✨</p>
