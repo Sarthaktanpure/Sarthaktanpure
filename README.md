@@ -44,8 +44,8 @@ I am a digital architect specializing in building **intelligent ecosystems**. I 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 ---
@@ -63,11 +63,11 @@ I am a digital architect specializing in building **intelligent ecosystems**. I 
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sarthak-tanpure-a74b5133a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sarthaktanpure255@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sarthaktanpure&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
 </p>
