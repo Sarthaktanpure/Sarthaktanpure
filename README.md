@@ -1,80 +1,89 @@
-<!-- 🌌 PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sarthak%20Tanpure&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=220&section=header&text=SARTHAK%20TANPURE&fontSize=65&fontColor=00E6FF&animation=twinkling&desc=FULL%20STACK%20ENGINEER%20|%20AI%20BUILDER&descSize=20&descAlignY=65" />
 </p>
 
-<!-- ⚡ TYPING HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00E6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI+%2F+ML+Builder;System+Thinker;Future+Tech+Entrepreneur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Solving+Complex+Problems+with+Code;Architecting+Scalable+MERN+Systems;Integrating+Machine+Learning+into+UX;Building+the+Future+of+Digital+Heritage" />
 </p>
 
-<!-- 🦋 SUBTLE AESTHETIC ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="110"/>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="110"/>
+  <a href="#-tech-stack"><strong>Tech Stack</strong></a> • 
+  <a href="#-active-deployments"><strong>Projects</strong></a> • 
+  <a href="#-system-analytics"><strong>Analytics</strong></a> • 
+  <a href="#-connection-grid"><strong>Connect</strong></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Executive Summary
 
-Name: Sarthak Tanpure
-Role: Software Engineer (Full Stack + AI)
-Focus: Scalable, real-world systems
-Goal: Top-tier internships → Build impactful tech products
+> **"Systems that scale, code that breathes, and products that solve."**
+> 
+> I am a Computer Engineering student specializing in **Full Stack Development** and **AI/ML**. I don't just write scripts; I build ecosystems. My focus lies at the intersection of high-performance backend architecture and intuitive, cinematic frontend experiences.
 
-I focus on building real-world, scalable systems:
+---
 
-⚙️ Full Stack (MERN)
-🤖 AI / ML Integration
-🔄 Automation Tools
+## ⚙️ Tech Ecosystem
 
-Currently working on:
+| **Domain** | **Tools & Technologies** |
+| :--- | :--- |
+| **Core Languages** | `C++` `Java` `JavaScript` `Python` |
+| **Frontend** | `React.js` `TailwindCSS` `Redux` `Framer Motion` |
+| **Backend / DB** | `Node.js` `Express` `MongoDB` `REST APIs` |
+| **AI / Data** | `NumPy` `Pandas` `Matplotlib` `ML Ops` |
+| **DevOps / Tools** | `Git` `GitHub` `Vercel` `Postman` |
 
-AI-powered applications
-Data-driven systems
-Production-level projects
-⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,cpp,js,tailwind,git,github" /> </p>
-🚀 Current Work
-🤖 AI Assistant → Automation system
-🌱 AgriConnect → Farmer marketplace
-📊 Data Science → ML + Visualization
-🎯 Internship Preparation (Top Tech)
-🧬 Featured Projects
-<p align="center"> <!-- AI Assistant Card --> <a href="#"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header&text=🤖%20AI%20Assistant&fontSize=20&fontColor=ffffff"/> </a> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
-
-💡 Desktop automation with intelligent execution
-⚙️ Python + AI logic
-
-<!-- AgriConnect Card --> <a href="#"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=120&section=header&text=🌱%20AgriConnect&fontSize=20&fontColor=ffffff"/> </a> <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="320"/>
-
-💡 Farmer → Buyer marketplace
-🚀 MERN Stack scalable system
-
-<!-- Data Science Card --> <a href="#"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=120&section=header&text=📊%20Data%20Science&fontSize=20&fontColor=ffffff"/> </a> <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320"/>
-
-💡 Data analysis + ML + visualization
-📈 Real-world datasets
-
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,react,nodejs,mongodb,express,tailwind,git,github,vercel,postman" /> 
 </p>
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=tokyonight&hide_border=true" width="48%" /> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=tokyo-night&hide_border=true&area=true" /> </p>
-🧠 Data Science
-NumPy / Pandas
-Data Visualization
-Machine Learning Basics
-Real-world datasets
-💡 Philosophy
 
-Build systems that solve real problems
-Scale them
-Turn them into assets
+---
 
-🌌 Minimal Motion
-<p align="center"> <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="280"/> </p>
-🌐 Connect
-<p align="center"> <a href="https://github.com/omkar2446"> <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin"/> </a> </p>
-<!-- 🌊 FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> </p> ```
+## 🚀 Active Deployments
+
+#### 🤖 **PunarnirmanAI** * **Scope:** Digital heritage restoration using AI-powered reconstruction.
+* **Tech:** MERN Stack + Python-based AI Models.
+
+#### 🌱 **AgriConnect AI** * **Scope:** Smart agriculture IoT dashboard monitoring soil health and farmer marketplaces.
+* **Tech:** ESP32, Node.js, MongoDB.
+
+#### 📊 **GitHub Intelligence** * **Scope:** Automated visualization of contribution patterns and repository health.
+
+---
+
+## 📈 System Analytics
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="350" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineering_Pulse" width="100%" />
+</p>
+
+---
+
+## 🌐 Connection Grid
+
+<p align="center">
+  <a href="https://github.com/omkar2446">
+    <img src="https://img.shields.io/badge/GIT-121212?style=for-the-badge&logo=github&logoColor=00E6FF" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LINKEDIN-121212?style=for-the-badge&logo=linkedin&logoColor=00E6FF" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/EMAIL-121212?style=for-the-badge&logo=gmail&logoColor=00E6FF" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=120&section=footer&flip=true" />
+</p>
