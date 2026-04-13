@@ -1,78 +1,78 @@
-<p align="center">
-  <!-- <img src="Sarthaktanpure.png" width="100%" alt="Fullstack AI Banner" /> -->
-</p>
-
-# <p align="center">✨ Hello World, I'm Sarthak ✨</p>
-
-<p align="center">
-  <img src="Sarthak.jpeg" width="25%" height="25%" />
-</p>
+<!-- HERO SECTION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+Sarthak+Tanpure+⚡;Full+Stack+Developer;AI+%2F+ML+Builder;Future+Tech+Entrepreneur" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Architecture-ff69b4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-00dfd8?style=for-the-badge">
+  <img src="https://media.giphy.com/media/3o7TKz2Y8g7zV4h1sQ/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌌 About Me
 
-I am a digital architect specializing in building **intelligent ecosystems**. I combine the precision of **Full Stack Development** with the predictive power of **Machine Learning** to create applications that don't just function—they think.
+```yaml
+Name: Sarthak Tanpure
+Role: Full Stack Developer + AI Enthusiast
+Focus: Building scalable + income-generating tech products
+Goal: Crack top internships (Google / Microsoft 🚀)
 
-- 🧠 **Neural Networks:** Designing custom architectures for CV and NLP tasks.
-- 🌐 **Scalable Web:** Building high-performance interfaces with React/Next.js and robust backends.
-- ⚡ **Performance:** Optimizing model inference and database queries for real-time speed.
-- 🎨 **Philosophy:** Beautiful UI outside, elegant algorithms inside.
+💻 I build real-world projects combining:
 
----
+Full Stack Development (MERN)
+AI / ML systems
+Automation tools
 
-## 🛠️ My Tech Universe
+🧠 Currently exploring:
 
-### 🧠 AI / ML Intelligence
+Machine Learning models
+Data analysis & visualization
+AI-powered applications
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+🔥 Mindset:
 
-### 🌐 Full Stack Mastery
+Build → Scale → Monetize 💰
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+🦋 Tech Universe
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,cpp,git,github,vscode,tailwind" /> </p>
+⚡ Current Focus
+🤖 AI Assistant (Automation System)
+🌱 AgriTech Platform (Farmer → Buyer Marketplace)
+📊 Data Science & ML Projects
+🚀 Preparing for top internships
+🔥 Featured Projects
+🤖 AI Assistant
 
----
+Desktop automation + intelligent task execution
 
-## 📊 GitHub Analytics
+🌱 AgriConnect
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&layout=compact&langs_count=7&theme=dracula" />
-</p>
+Farmer-to-buyer marketplace (MERN Stack)
 
----
+📊 Data Analysis Projects
 
-## 🎨 Featured Projects
+Insights, visualization & ML using Python
 
-| Project              | Description                                                     | Tech Stack                    |
-| :------------------- | :-------------------------------------------------------------- | :---------------------------- |
-| **🧠 NeuroDash**     | Real-time AI analytics dashboard with live inference streaming. | React, FastAPI, PyTorch       |
-| **☁️ CloudVision**   | Serverless object detection API deployed globally.              | AWS Lambda, OpenCV, Terraform |
-| **💬 Semantic Chat** | A RAG-based chatbot using custom vector embeddings.             | LangChain, Pinecone, Next.js  |
+📊 GitHub Power Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=tokyonight&hide_border=true" width="48%" /> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=tokyo-night&hide_border=true" /> </p>
+🧠 Data Science Zone
+📊 NumPy & Pandas
+📈 Data Visualization (Matplotlib / Seaborn)
+🤖 Machine Learning Basics
+🔍 Real-world datasets
+💡 Philosophy
 
----
+"Don’t just learn code. Build systems that make money, solve problems, and scale."
 
-## 📫 Connect With Me
+🦋 Aesthetic Animation Section
+<p align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/> </p>
+📫 Connect With Me
+<p align="center"> <a href="https://github.com/omkar2446"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+⚡ Fun Fact
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sarthak-tanpure-a74b5133a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sarthaktanpure255@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+💡 I don’t just build projects…
+I build assets that can generate income 💰
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarthaktanpure&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B00FF&height=120&section=footer"/> </p> ```
