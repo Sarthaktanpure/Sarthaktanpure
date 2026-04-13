@@ -11,7 +11,7 @@
 
 ## 🌌 About Me
 
-```yaml
+
 Name: Sarthak Tanpure
 Role: Full Stack Developer + AI Enthusiast
 Focus: Building scalable + income-generating tech products
