@@ -1,84 +1,63 @@
-<!-- 🌈 TOP ANIMATED BANNER -->
+<!-- 🌌 PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B00FF,100:FF00CC&height=200&section=header&text=Sarthak%20Tanpure&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sarthak%20Tanpure&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- ⚡ TYPING HERO -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+Full+Stack+Developer;🤖+AI+%2F+ML+Builder;🚀+Startup+Mindset;💰+Building+Income+Generating+Projects" />
-</h1>
-
-<!-- 🦋 BUTTERFLY AESTHETIC -->
+<!-- ⚡ SUBTLE TYPING -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/3o7TKz2Y8g7zV4h1sQ/giphy.gif" width="180"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00E6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI+%2F+ML+Builder;System+Thinker;Future+Tech+Entrepreneur" />
+</p>
+
+<!-- 🦋 CLEAN FLOATING EFFECT (SUBTLE, NOT CRINGE) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="120"/>
 </p>
 
 ---
 
-## 🌌 About Me
+## 🧠 About Me
 
 Name: Sarthak Tanpure
-Role: Full Stack Developer + AI Builder
-Focus: Scalable + income-generating systems
-Goal: Crack top internships (Google / Microsoft 🚀)
+Role: Software Engineer (Full Stack + AI)
+Focus: Scalable, real-world systems
+Goal: Top-tier internships → Build impactful tech products
 
-💻 I don’t just code — I engineer solutions:
+I focus on building, not just learning:
 
-⚡ Full Stack (MERN)
-🤖 AI / ML systems
-🔄 Automation tools
+⚙️ Full Stack Systems (MERN)
+🤖 AI / ML Integration
+🔄 Automation & Efficiency Tools
 
-🧠 Currently diving deep into:
+Currently working on:
 
-Machine Learning & real-world models
-Data analysis & visualization
-AI-powered product building
-
-🔥 Core Mindset:
-
-Build → Scale → Automate → Monetize 💰
-
-🦋 Tech Universe
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,cpp,git,github,vscode,tailwind" /> </p>
-⚡ Current Focus
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=7B00FF&center=true&vCenter=true&width=500&lines=Building+AI+Assistant...;Developing+AgriConnect...;Learning+ML+Models...;Preparing+for+Top+Internships..." /> </p>
-🤖 AI Assistant (Automation System)
-🌱 AgriConnect (Farmer → Buyer Marketplace)
-📊 Data Science & ML Projects
-🚀 Internship grind (Google / Microsoft)
-🔥 Featured Projects
-🤖 AI Assistant
-
-Desktop automation + intelligent execution system
-
-🌱 AgriConnect
-
-Full-stack MERN marketplace for farmers
-
-📊 Data Analysis Projects
-
-Insights + visualization using Python
-
-📊 GitHub Power Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=tokyonight&hide_border=true" width="48%" /> </p>
-📈 Activity Graph (Live Energy ⚡)
+AI-powered applications
+Data-driven systems
+Production-level projects
+⚡ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,cpp,js,tailwind,git,github" /> </p>
+🚀 Current Work
+🤖 AI Assistant → Automation system
+🌱 AgriConnect → Farmer marketplace
+📊 Data Science → ML + Visualization
+🎯 Internship Preparation (Top Tech)
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=tokyonight&hide_border=true" width="48%" /> </p>
+📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=tokyo-night&hide_border=true&area=true" /> </p>
-🧠 Data Science Zone
-<p align="center"> <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-teal?style=for-the-badge"/> </p>
+🧠 Data Science
+NumPy / Pandas
+Data Visualization
+Machine Learning Basics
+Real-world datasets
 💡 Philosophy
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
 
-"Don’t just learn code. Build systems that solve problems and generate income."
+Build systems that solve real problems
+Scale them
+Turn them into assets
 
-🦋 Visual Escape (Aesthetic Zone)
-<p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250"/> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/omkar2446"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> </p>
-⚡ Fun Fact
-
-💡 I don’t build projects for marks…
-I build digital assets that can scale & earn 💰
-
-<!-- 🌊 FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,50:7B00FF,100:00F7FF&height=120&section=footer"/> </p> ```
+🌌 Minimal Aesthetic Motion
+<p align="center"> <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="300"/> </p>
+🌐 Connect
+<p align="center"> <a href="https://github.com/omkar2446"> <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin"/> </a> </p>
+<!-- 🌊 CLEAN FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> </p> ```
