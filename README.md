@@ -10,21 +10,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:060b14,75:0a1220,100:060b14&height=320&section=header&text=Sarthak%20Tanpure&fontSize=68&fontColor=E6EDF3&fontAlignY=42&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20System%20Thinker&descSize=19&descAlignY=60&descColor=00E5FF&animation=twinkling&stroke=00E5FF&strokeWidth=1.4"/>
 
-<br/>
-
-<!-- ─── ANIMATED BUTTERFLY SPREADING STARS ─── -->
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=800&color=7957D5&center=true&vCenter=true&width=400&height=28&lines=✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦;·+·+✦+·+·+✦+·+·+✦+·+·+✦+·+·;✧+·+·+·+✦+·+·+·+✧+·+·+·+✦+·" /> -->
-
-<!-- Butterfly with glow effect flying across -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=🦋+·+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+🦋+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+·+·+·+🦋+·+·+·+·+·+·+·+·+·;·+·+·+·+·+·+·+·+🦋+·+·+·+·+·+·;·+·+·+·+·+·+·+·+·+·+·+🦋+·+·+·;·+·+·+·+·+·+·+·+·+·+·+·+·+·+🦋"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=🦋+·+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+🦋+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+·+·+·+🦋+·+·+·+·+·+·+·+·+·;·+·+·+·+·+·+·+·+🦋+·+·+·+·+·+·;·+·+·+·+·+·+·+·+·+·+·+🦋+·+·+·;·+·+·+·+·+·+·+·+·+·+·+·+·+·+🦋"/>
-</picture> -->
-
-<!-- Star shower spreading from butterfly -->
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=700&height=36&lines=✦+✧+·+✦+·+✧+✦+✧+·+✦+·+✧+✦;·+✦+✧+·+✦+✧+·+✦+✧+·+✦+✧+·+✦;✧+·+✦+·+✧+✦+·+✧+·+✦+✧+·+✦+·" /> -->
-
-<br/>
 
 <!-- ─── MAIN TYPING LINE ─── -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=36&lines=Full+Stack+Engineer+%7C+MERN+%2B+System+Design;AI+%2F+ML+Integration+%26+Automation+Systems;Building+real-world+products+that+scale;Crafting+the+future%2C+one+commit+at+a+time." />
@@ -48,7 +33,7 @@
 <!--                      ANIMATED DIVIDER                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
