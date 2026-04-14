@@ -1,63 +1,289 @@
-<!-- 🌌 PREMIUM HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sarthak%20Tanpure&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    HERO SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0f,60:0d1117,100:0a0a0f&height=280&section=header&text=Sarthak%20Tanpure&fontSize=62&fontColor=E6EDF3&fontAlignY=45&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20System%20Thinker&descSize=18&descAlignY=65&descColor=7D8590&animation=twinkling&stroke=00E5FF&strokeWidth=1.2"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=580&height=36&lines=Full+Stack+Engineer+%7C+MERN+%2B+System+Design;AI+%2F+ML+Integration+%26+Automation+Systems;Building+real-world+products+that+scale;Crafting+the+future%2C+one+commit+at+a+time." />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-00E5FF?style=flat-square&labelColor=0d1117&color=00E5FF"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-7957D5?style=flat-square&labelColor=0d1117&color=7957D5"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Goal-Top--Tier%20Engineer-FF6B6B?style=flat-square&labelColor=0d1117&color=FF6B6B"/>
 </p>
 
-<!-- ⚡ SUBTLE TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00E6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI+%2F+ML+Builder;System+Thinker;Future+Tech+Entrepreneur" />
-</p>
+</div>
 
-<!-- 🦋 CLEAN FLOATING EFFECT (SUBTLE, NOT CRINGE) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="120"/>
-</p>
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ABOUT SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-## 🧠 About Me
+<div align="center">
 
-Name: Sarthak Tanpure
-Role: Software Engineer (Full Stack + AI)
-Focus: Scalable, real-world systems
-Goal: Top-tier internships → Build impactful tech products
+## `$ whoami`
 
-I focus on building, not just learning:
+</div>
 
-⚙️ Full Stack Systems (MERN)
-🤖 AI / ML Integration
-🔄 Automation & Efficiency Tools
+<table align="center" border="0" width="90%">
+<tr>
+<td width="55%" valign="top">
 
-Currently working on:
+```typescript
+const sarthak = {
+  role     : "Full Stack Engineer + AI Builder",
+  stack    : ["MERN", "Python", "ML", "System Design"],
+  building : ["AI Automation", "AgriConnect", "Data Systems"],
+  goal     : "Top-tier internship → Impactful products",
+  mindset  : "Ship fast. Iterate. Scale.",
+};
+```
 
-AI-powered applications
-Data-driven systems
-Production-level projects
-⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,cpp,js,tailwind,git,github" /> </p>
-🚀 Current Work
-🤖 AI Assistant → Automation system
-🌱 AgriConnect → Farmer marketplace
-📊 Data Science → ML + Visualization
-🎯 Internship Preparation (Top Tech)
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=tokyonight&hide_border=true" width="48%" /> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=tokyo-night&hide_border=true&area=true" /> </p>
-🧠 Data Science
-NumPy / Pandas
-Data Visualization
-Machine Learning Basics
-Real-world datasets
-💡 Philosophy
+</td>
+<td width="45%" valign="top" align="center">
 
-Build systems that solve real problems
-Scale them
-Turn them into assets
+<br/>
 
-🌌 Minimal Aesthetic Motion
-<p align="center"> <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="300"/> </p>
-🌐 Connect
-<p align="center"> <a href="https://github.com/omkar2446"> <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin"/> </a> </p>
-<!-- 🌊 CLEAN FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> </p> ```
+🧠 &nbsp; **Deep systems thinker** <br/>
+⚙️ &nbsp; **Production-first builder** <br/>
+🤖 &nbsp; **AI/ML integrator** <br/>
+📊 &nbsp; **Data-driven decision maker** <br/>
+🌱 &nbsp; **Consistent, compounding growth**
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  TECH STACK SECTION                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## ⚡ &nbsp; Arsenal
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css&theme=dark" />
+
+<br/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark" />
+
+<br/>
+
+**AI / ML & Data**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+
+<br/>
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   PROJECTS SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🚀 &nbsp; Selected Work
+
+<br/>
+
+</div>
+
+<table align="center" border="0" width="92%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 &nbsp; AI Assistant & Automation Engine
+
+> An intelligent automation system powered by LLMs. Handles multi-step workflows, contextual memory, and real-time task execution — reducing manual overhead by design.
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![LangChain](https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=00E5FF)
+![OpenAI](https://img.shields.io/badge/-OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 &nbsp; AgriConnect — Farmer Marketplace
+
+> A full-stack marketplace connecting farmers directly to buyers — cutting middlemen, increasing margins, and digitizing India's agricultural supply chain.
+
+<br/>
+
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 &nbsp; Data Science & ML Pipeline
+
+> End-to-end ML pipeline for real-world datasets — data ingestion, feature engineering, model training, and interactive visualization dashboards.
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+![Scikit--learn](https://img.shields.io/badge/-Sklearn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0d1117?style=flat-square&logo=plotly&logoColor=3F4F75)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ &nbsp; Systems & Efficiency Tools
+
+> Productivity and automation tooling — built to streamline developer workflows, automate repetitive operations, and expose clean REST APIs.
+
+<br/>
+
+![Express](https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Shell](https://img.shields.io/badge/-Shell-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS SECTION                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📊 &nbsp; GitHub Analytics
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&icon_color=7957D5&text_color=7D8590&include_all_commits=true&count_private=true" width="48%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=7D8590&sideLabels=7D8590&dates=7D8590" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&text_color=7D8590&layout=compact&langs_count=8" width="42%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=github-compact&hide_border=true&bg_color=0d1117&color=00E5FF&line=7957D5&point=FF6B6B&area=true&area_color=7957D5" width="96%"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  PHILOSOPHY SECTION                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💡 &nbsp; Philosophy
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="82%"/>
+
+<br/><br/>
+
+> *"Build systems that solve real problems.*
+> *Scale them. Turn them into assets."*
+
+<br/>
+
+```
+  Idea → Design → Build → Ship → Iterate → Scale → Repeat.
+```
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🌐 &nbsp; Let's Connect
+
+<br/>
+
+<a href="https://github.com/omkar2446">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=E6EDF3&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=omkar2446&label=Profile%20Views&color=00E5FF&style=flat-square&labelColor=0d1117"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                     FOOTER                             -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:00E5FF&height=100&section=footer&reversal=false&fontColor=00E5FF"/>
+
+<div align="center">
+<sub>Designed with precision · Built with purpose · Shipped with intent</sub>
+</div>
