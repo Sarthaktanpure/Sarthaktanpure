@@ -158,7 +158,9 @@ const sarthak = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&theme=github_dark&hide_border=true&bg_color=03060f&title_color=00d4aa&icon_color=4f8ef7&text_color=4a5568&include_all_commits=true&count_private=true&ring_color=00d4aa" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&theme=github_dark&hide_border=true&bg_color=03060f&title_color=00d4aa&icon_color=4f8ef7&text_color=4a5568&include_all_commits=true&count_private=true&ring_color=00d4aa" width="48%"/> -->
+
+<img src="https://streak-stats.demolab.com/?user=SarthakTanpure&theme=github-dark-blue&hide_border=true&background=03060f&ring=00d4aa&fire=a78bfa&currStreakLabel=4a5568&sideLabels=4a5568&dates=4a5568&stroke=00d4aa" width="48%"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthaktanpure&theme=github-dark-blue&hide_border=true&background=03060f&ring=00d4aa&fire=a78bfa&currStreakLabel=4a5568&sideLabels=4a5568&dates=4a5568&stroke=00d4aa" width="48%"/>
 
