@@ -16,13 +16,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=800&color=7957D5&center=true&vCenter=true&width=400&height=28&lines=✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦;·+·+✦+·+·+✦+·+·+✦+·+·+✦+·+·;✧+·+·+·+✦+·+·+·+✧+·+·+·+✦+·" />
 
 <!-- Butterfly with glow effect flying across -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=🦋+·+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+🦋+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+·+·+·+🦋+·+·+·+·+·+·+·+·+·;·+·+·+·+·+·+·+·+🦋+·+·+·+·+·+·;·+·+·+·+·+·+·+·+·+·+·+🦋+·+·+·;·+·+·+·+·+·+·+·+·+·+·+·+·+·+🦋"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=🦋+·+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+🦋+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+·+·+·+🦋+·+·+·+·+·+·+·+·+·;·+·+·+·+·+·+·+·+🦋+·+·+·+·+·+·;·+·+·+·+·+·+·+·+·+·+·+🦋+·+·+·;·+·+·+·+·+·+·+·+·+·+·+·+·+·+🦋"/>
-</picture>
+</picture> -->
 
 <!-- Star shower spreading from butterfly -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=700&height=36&lines=✦+✧+·+✦+·+✧+✦+✧+·+✦+·+✧+✦;·+✦+✧+·+✦+✧+·+✦+✧+·+✦+✧+·+✦;✧+·+✦+·+✧+✦+·+✧+·+✦+✧+·+✦+·" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=700&height=36&lines=✦+✧+·+✦+·+✧+✦+✧+·+✦+·+✧+✦;·+✦+✧+·+✦+✧+·+✦+✧+·+✦+✧+·+✦;✧+·+✦+·+✧+✦+·+✧+·+✦+✧+·+✦+·" /> -->
 
 <br/>
 
