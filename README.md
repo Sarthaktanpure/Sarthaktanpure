@@ -165,9 +165,7 @@ const sarthak = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthaktanpure&theme=github-dark-blue&hide_border=true&background=03060f&ring=00d4aa&fire=a78bfa&currStreakLabel=4a5568&sideLabels=4a5568&dates=4a5568&stroke=00d4aa" width="48%"/>
 
 <br/><br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SarthakTanpure&layout=compact&theme=tokyonight" />
 
 <br/><br/>
 
