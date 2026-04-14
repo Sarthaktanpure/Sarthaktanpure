@@ -38,7 +38,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Goal-Top--Tier%20Engineer-FF6B6B?style=flat-square&labelColor=0d1117&color=FF6B6B"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=omkar2446&label=Profile%20Views&color=00E5FF&style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Sarthaktanpure&label=Profile%20Views&color=00E5FF&style=flat-square&labelColor=0d1117"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 <!--                      ANIMATED DIVIDER                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/
 
 <br/>
 
@@ -66,7 +66,6 @@
 <tr>
 <td width="52%" valign="top">
 
-```typescript
 const sarthak = {
   role     : "Full Stack Engineer + AI Builder",
   stack    : ["MERN", "Python", "ML", "System Design"],
@@ -74,7 +73,6 @@ const sarthak = {
   goal     : "Top-tier internship → Impactful products",
   mindset  : "Ship fast. Iterate. Scale.",
 };
-```
 
 </td>
 <td width="48%" valign="top" align="center">
@@ -249,20 +247,20 @@ const sarthak = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&icon_color=7957D5&text_color=7D8590&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&icon_color=7957D5&text_color=7D8590&include_all_commits=true&count_private=true" width="48%"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=7D8590&sideLabels=7D8590&dates=7D8590" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthaktanpure&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=7D8590&sideLabels=7D8590&dates=7D8590" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&text_color=7D8590&layout=compact&langs_count=8" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&text_color=7D8590&layout=compact&langs_count=8" width="42%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=github-compact&hide_border=true&bg_color=0d1117&color=00E5FF&line=7957D5&point=FF6B6B&area=true&area_color=7957D5" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthaktanpure&theme=github-compact&hide_border=true&bg_color=0d1117&color=00E5FF&line=7957D5&point=FF6B6B&area=true&area_color=7957D5" width="96%"/>
 
 <!-- Butterfly + star spread on stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=38&lines=✦+·+·+·+·+🦋+·+·+✦+·+·+·+🦋+·+·+·+✦;·+🦋+·+·+✦+·+·+·+·+🦋+·+✦+·+·+·+·+🦋;·+·+✦+🦋+·+·+·+✦+·+🦋+·+·+·+✦+·+🦋+·" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=38&lines=✦+·+·+·+·+🦋+·+·+✦+·+·+·+🦋+·+·+·+✦;·+🦋+·+·+✦+·+·+·+·+🦋+·+✦+·+·+·+·+🦋;·+·+✦+🦋+·+·+·+✦+·+🦋+·+·+·+✦+·+🦋+·" /> -->
 
 </div>
 
@@ -289,14 +287,13 @@ const sarthak = {
 
 <br/>
 
-```
+
   Idea → Design → Build → Ship → Iterate → Scale → Repeat.
-```
 
 <br/>
 
 <!-- Final butterfly farewell animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=700&height=44&lines=🌟+·+·+·+🦋+·+·+·+✦+·+·+·+🦋+·+·+·+🌟;·+✦+·+🦋+·+·+·+✦+·+·+·+🦋+·+·+✦+·+·+🌟;·+·+🦋+·+·+✦+·+·+·+🦋+·+·+·+✦+·+·+🌟+·;·+🦋+·+·+·+·+✦+·+🦋+·+·+·+·+✦+·+·+·+🌟" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=700&height=44&lines=🌟+·+·+·+🦋+·+·+·+✦+·+·+·+🦋+·+·+·+🌟;·+✦+·+🦋+·+·+·+✦+·+·+·+🦋+·+·+✦+·+·+🌟;·+·+🦋+·+·+✦+·+·+·+🦋+·+·+·+✦+·+·+🌟+·;·+🦋+·+·+·+·+✦+·+🦋+·+·+·+·+✦+·+·+·+🌟" /> -->
 
 </div>
 
@@ -334,7 +331,7 @@ const sarthak = {
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=omkar2446&label=Profile%20Views&color=00E5FF&style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Sarthaktanpure&label=Profile%20Views&color=00E5FF&style=flat-square&labelColor=0d1117"/>
 
 </div>
 
