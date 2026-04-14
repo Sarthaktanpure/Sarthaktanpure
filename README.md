@@ -226,9 +226,9 @@ const sarthak = {
 
 <br/><br/>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&text_color=7D8590&layout=compact&langs_count=8" width="42%"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&text_color=7D8590&layout=compact&langs_count=8" width="42%"/> 
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthaktanpure&theme=github-compact&hide_border=true&bg_color=0d1117&color=00E5FF&line=7957D5&point=FF6B6B&area=true&area_color=7957D5" width="96%"/> 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
