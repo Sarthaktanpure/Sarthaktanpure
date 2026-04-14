@@ -166,7 +166,7 @@ const sarthak = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&theme=github_dark&hide_border=true&bg_color=03060f&title_color=00d4aa&text_color=4a5568&layout=compact&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakTanpure&theme=github_dark&hide_border=true&bg_color=03060f&title_color=00d4aa&text_color=4a5568&layout=compact&langs_count=8" width="40%"/>
 
 <br/><br/>
 
