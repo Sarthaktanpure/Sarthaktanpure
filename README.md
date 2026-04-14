@@ -230,7 +230,7 @@ const sarthak = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthaktanpure&theme=github-compact&hide_border=true&bg_color=0d1117&color=00E5FF&line=7957D5&point=FF6B6B&area=true&area_color=7957D5" width="96%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthaktanpure&theme=github-compact&hide_border=true&bg_color=0d1117&color=00E5FF&line=7957D5&point=FF6B6B&area=true&area_color=7957D5" width="96%"/> -->
 
 </div>
 
