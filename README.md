@@ -1,82 +1,355 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              SARTHAK TANPURE · PREMIUM README (FIXED)             -->
+<!--              SARTHAK TANPURE · PREMIUM ANIMATED README             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:060b14,75:0a1220,100:060b14&height=300&section=header&text=Sarthak%20Tanpure&fontSize=64&fontColor=E6EDF3&fontAlignY=42&desc=Engineer%20•%20Builder%20•%20System%20Thinker&descSize=18&descAlignY=60&descColor=00E5FF&animation=fadeIn"/>
+<!-- ╔══════════════════════════════════════╗ -->
+<!--            ANIMATED HERO BANNER         -->
+<!-- ╚══════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:060b14,75:0a1220,100:060b14&height=320&section=header&text=Sarthak%20Tanpure&fontSize=68&fontColor=E6EDF3&fontAlignY=42&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20System%20Thinker&descSize=19&descAlignY=60&descColor=00E5FF&animation=twinkling&stroke=00E5FF&strokeWidth=1.4"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+MERN+%2B+System+Design;AI%2FML+Integration+%26+Automation;Building+real-world+scalable+products"/>
+<!-- ─── ANIMATED BUTTERFLY SPREADING STARS ─── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=800&color=7957D5&center=true&vCenter=true&width=400&height=28&lines=✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦;·+·+✦+·+·+✦+·+·+✦+·+·+✦+·+·;✧+·+·+·+✦+·+·+·+✧+·+·+·+✦+·" />
 
-<br/><br/>
+<!-- Butterfly with glow effect flying across -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=🦋+·+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+🦋+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+·+·+·+🦋+·+·+·+·+·+·+·+·+·;·+·+·+·+·+·+·+·+🦋+·+·+·+·+·+·;·+·+·+·+·+·+·+·+·+·+·+🦋+·+·+·;·+·+·+·+·+·+·+·+·+·+·+·+·+·+🦋"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=🦋+·+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+🦋+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+·+·+·+🦋+·+·+·+·+·+·+·+·+·;·+·+·+·+·+·+·+·+🦋+·+·+·+·+·+·;·+·+·+·+·+·+·+·+·+·+·+🦋+·+·+·;·+·+·+·+·+·+·+·+·+·+·+·+·+·+🦋"/>
+</picture>
 
-<img src="https://img.shields.io/badge/Status-Building%20in%20Public-00E5FF?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-7957D5?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Goal-Top%20Tier%20Engineer-FF6B6B?style=flat-square&labelColor=0d1117"/>
+<!-- Star shower spreading from butterfly -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=700&height=36&lines=✦+✧+·+✦+·+✧+✦+✧+·+✦+·+✧+✦;·+✦+✧+·+✦+✧+·+✦+✧+·+✦+✧+·+✦;✧+·+✦+·+✧+✦+·+✧+·+✦+✧+·+✦+·" />
+
+<br/>
+
+<!-- ─── MAIN TYPING LINE ─── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=36&lines=Full+Stack+Engineer+%7C+MERN+%2B+System+Design;AI+%2F+ML+Integration+%26+Automation+Systems;Building+real-world+products+that+scale;Crafting+the+future%2C+one+commit+at+a+time." />
+
+<br/>
+
+<!-- ─── STATUS BADGES ─── -->
+<img src="https://img.shields.io/badge/Status-Building%20in%20Public-00E5FF?style=flat-square&labelColor=0d1117&color=00E5FF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-7957D5?style=flat-square&labelColor=0d1117&color=7957D5"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Goal-Top--Tier%20Engineer-FF6B6B?style=flat-square&labelColor=0d1117&color=FF6B6B"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=omkar2446&label=Profile%20Views&color=00E5FF&style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2"/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      ANIMATED DIVIDER                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-js
+<div align="center">
+
+## `$ whoami`
+
+</div>
+
+<table align="center" border="0" width="90%">
+<tr>
+<td width="52%" valign="top">
+
+```typescript
 const sarthak = {
-  role: "Full Stack Engineer + AI Builder",
-  stack: ["MERN", "Python", "ML", "System Design"],
-  building: ["AgriConnect", "AI Automation Systems"],
-  goal: "Top-tier internship → impactful products",
-  mindset: "Ship fast. Iterate. Scale."
+  role     : "Full Stack Engineer + AI Builder",
+  stack    : ["MERN", "Python", "ML", "System Design"],
+  building : ["AI Automation", "AgriConnect", "Data Systems"],
+  goal     : "Top-tier internship → Impactful products",
+  mindset  : "Ship fast. Iterate. Scale.",
 };
+```
 
-⚙️ Production-focused builder
-🤖 AI/ML integrator
-📊 Data-driven mindset
-🚀 Growth through consistency
-⚡ Tech Stack
-Frontend
+</td>
+<td width="48%" valign="top" align="center">
+
+<br/>
+
+✦ &nbsp; **Deep systems thinker** <br/>
+⚙️ &nbsp; **Production-first builder** <br/>
+🤖 &nbsp; **AI/ML integrator** <br/>
+📊 &nbsp; **Data-driven decision maker** <br/>
+✧ &nbsp; **Consistent, compounding growth**
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  BUTTERFLY FLYING ANIMATION ROW                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=44&lines=🌟+·+·+·+·+·+·+🦋+·+·+·+·+·+·+🌟+·+·+·+·+·;·+✦+·+·+·+·+🦋+·+·+·+·+·+✦+·+·+·+·+·+🌟+·;·+·+·+✦+·+🦋+·+·+✦+·+·+·+·+✦+·+·+·+·+✦+·;·+·+·+·+🦋+·+·+·+·+✦+·+·+·+·+·+✦+·+·+·+·;·+·+·+🦋+·+·+·+·+·+·+✦+·+·+·+·+·+✦+·+·+·;·+·+🦋+·+✦+·+·+·+·+·+·+·+✦+·+·+·+·+·+✦+·;·+🦋+·+·+·+✦+·+·+·+·+·+·+·+·+✦+·+·+·+·+·" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚡ &nbsp; Arsenal
+
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css&theme=dark" />
-Backend & Database
+
+<br/>
+
+**Backend & Database**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark" />
-AI / ML
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-Tools
+
+<br/>
+
+**AI / ML & Data**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+<br/>
+
+**DevOps & Tools**
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
-🚀 Projects
-🤖 AI Automation Engine
 
-Multi-step intelligent automation system with memory + workflow execution.
+<!-- Star spread animation below stack -->
+<br/>
 
-🌱 AgriConnect
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=600&height=28&lines=·+✦+·+·+✧+·+·+✦+·+✧+·+·+✦+·+·+✧;✧+·+·+✦+·+·+✧+·+·+✦+·+·+✧+·+·+✦;·+·+✦+·+✧+·+·+✦+·+·+✧+·+✦+·+·+✧" />
 
-Farmer-to-buyer marketplace removing middlemen and increasing profit margins.
+</div>
 
-📊 ML Pipeline
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-End-to-end ML system with data processing, training, and visualization.
+<br/>
 
-⚙️ Dev Tools
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      PROJECTS SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-Automation + productivity tools for developers.
+<div align="center">
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%"/> <img src="https://streak-stats.demolab.com?user=Sarthaktanpure&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%"/>
+## 🚀 &nbsp; Selected Work
+
+<!-- Butterfly traversal animation between sections -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=✦+·+·+·+·+·+·+·+🦋+·+·+·+·+✦+·+·;·+·+✦+·+·+·+🦋+·+·+·+✦+·+·+·+·+✦;·+·+·+·+🦋+·+·+✦+·+·+·+·+✦+·+·+·" />
+
+<br/>
+
+</div>
+
+<table align="center" border="0" width="92%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 &nbsp; AI Assistant & Automation Engine
+
+> An intelligent automation system powered by LLMs. Handles multi-step workflows, contextual memory, and real-time task execution — reducing manual overhead by design.
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![LangChain](https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=00E5FF)
+![OpenAI](https://img.shields.io/badge/-OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 &nbsp; AgriConnect — Farmer Marketplace
+
+> A full-stack marketplace connecting farmers directly to buyers — cutting middlemen, increasing margins, and digitizing India's agricultural supply chain.
+
+<br/>
+
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 &nbsp; Data Science & ML Pipeline
+
+> End-to-end ML pipeline for real-world datasets — data ingestion, feature engineering, model training, and interactive visualization dashboards.
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+![Sklearn](https://img.shields.io/badge/-Sklearn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0d1117?style=flat-square&logo=plotly&logoColor=3F4F75)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ &nbsp; Systems & Efficiency Tools
+
+> Productivity and automation tooling — built to streamline developer workflows, automate repetitive operations, and expose clean REST APIs.
+
+<br/>
+
+![Express](https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Shell](https://img.shields.io/badge/-Shell-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📊 &nbsp; GitHub Analytics
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&icon_color=7957D5&text_color=7D8590&include_all_commits=true&count_private=true" width="48%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=7D8590&sideLabels=7D8590&dates=7D8590" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="40%"/> </div>
-💡 Philosophy
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&text_color=7D8590&layout=compact&langs_count=8" width="42%"/>
 
-Build real systems.
-Solve real problems.
-Scale what matters.
+<br/><br/>
 
-🌐 Connect
-<div align="center"> <a href="https://github.com/Sarthaktanpure"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/sarthak-tanpure-a74b5133a/"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://my-portfolio-sarthak-tanpure.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel"/> </a> </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060b14,100:00E5FF&height=100&section=footer"/> <div align="center"> <sub>Built with precision • Designed for impact</sub> </div> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=github-compact&hide_border=true&bg_color=0d1117&color=00E5FF&line=7957D5&point=FF6B6B&area=true&area_color=7957D5" width="96%"/>
+
+<!-- Butterfly + star spread on stats -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=38&lines=✦+·+·+·+·+🦋+·+·+✦+·+·+·+🦋+·+·+·+✦;·+🦋+·+·+✦+·+·+·+·+🦋+·+✦+·+·+·+·+🦋;·+·+✦+🦋+·+·+·+✦+·+🦋+·+·+·+✦+·+🦋+·" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     PHILOSOPHY SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💡 &nbsp; Philosophy
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="82%"/>
+
+<br/><br/>
+
+> *"Build systems that solve real problems.*
+> *Scale them. Turn them into assets."*
+
+<br/>
+
+```
+  Idea → Design → Build → Ship → Iterate → Scale → Repeat.
+```
+
+<br/>
+
+<!-- Final butterfly farewell animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=700&height=44&lines=🌟+·+·+·+🦋+·+·+·+✦+·+·+·+🦋+·+·+·+🌟;·+✦+·+🦋+·+·+·+✦+·+·+·+🦋+·+·+✦+·+·+🌟;·+·+🦋+·+·+✦+·+·+·+🦋+·+·+·+✦+·+·+🌟+·;·+🦋+·+·+·+·+✦+·+🦋+·+·+·+·+✦+·+·+·+🌟" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌐 &nbsp; Let's Connect
+
+<br/>
+
+<a href="https://github.com/Sarthaktanpure">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=E6EDF3&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=omkar2446&label=Profile%20Views&color=00E5FF&style=flat-square&labelColor=0d1117"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060b14,40:0a1220,80:0d1117,100:00E5FF&height=120&section=footer&fontColor=00E5FF"/>
+
+<div align="center">
+<sub>
+
+✦ Designed with precision · 🦋 Built with purpose · ✧ Shipped with intent ✦
+
+</sub>
+</div>
