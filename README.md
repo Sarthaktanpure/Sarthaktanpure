@@ -220,13 +220,13 @@ const sarthak = {
 ## 📊 &nbsp; GitHub Analytics
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&icon_color=7957D5&text_color=7D8590&include_all_commits=true&count_private=true" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&icon_color=7957D5&text_color=7D8590&include_all_commits=true&count_private=true" width="48%"/> -->
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=7D8590&sideLabels=7D8590&dates=7D8590" width="48%"/> 
 
 <br/><br/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&text_color=7D8590&layout=compact&langs_count=8" width="42%"/> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00E5FF&text_color=7D8590&layout=compact&langs_count=8" width="42%"/> 
 
 <br/><br/>
 
