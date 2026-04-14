@@ -166,7 +166,7 @@ const sarthak = {
 
 <br/><br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakTanpure&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&layout=compact&theme=tokyonight" />
 </p>
 
 <br/><br/>
