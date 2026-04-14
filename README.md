@@ -13,7 +13,7 @@
 <br/>
 
 <!-- ─── ANIMATED BUTTERFLY SPREADING STARS ─── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=800&color=7957D5&center=true&vCenter=true&width=400&height=28&lines=✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦;·+·+✦+·+·+✦+·+·+✦+·+·+✦+·+·;✧+·+·+·+✦+·+·+·+✧+·+·+·+✦+·" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=800&color=7957D5&center=true&vCenter=true&width=400&height=28&lines=✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦;·+·+✦+·+·+✦+·+·+✦+·+·+✦+·+·;✧+·+·+·+✦+·+·+·+✧+·+·+·+✦+·" /> -->
 
 <!-- Butterfly with glow effect flying across -->
 <!-- <picture>
@@ -316,19 +316,19 @@ const sarthak = {
 
 <br/>
 
-<a href="https://github.com/omkar2446">
+<a href="https://github.com/Sarthaktanpure">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="https://www.linkedin.com/in/sarthak-tanpure-a74b5133a/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="https://my-portfolio-sarthak-tanpure.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=E6EDF3&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="mailto:sarthaktanpure255@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117"/>
 </a>
 
