@@ -158,17 +158,17 @@ const sarthak = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=github_dark&hide_border=true&bg_color=03060f&title_color=00d4aa&icon_color=4f8ef7&text_color=4a5568&include_all_commits=true&count_private=true&ring_color=00d4aa" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&theme=github_dark&hide_border=true&bg_color=03060f&title_color=00d4aa&icon_color=4f8ef7&text_color=4a5568&include_all_commits=true&count_private=true&ring_color=00d4aa" width="48%"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=github-dark-blue&hide_border=true&background=03060f&ring=00d4aa&fire=a78bfa&currStreakLabel=4a5568&sideLabels=4a5568&dates=4a5568&stroke=00d4aa" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthaktanpure&theme=github-dark-blue&hide_border=true&background=03060f&ring=00d4aa&fire=a78bfa&currStreakLabel=4a5568&sideLabels=4a5568&dates=4a5568&stroke=00d4aa" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&theme=github_dark&hide_border=true&bg_color=03060f&title_color=00d4aa&text_color=4a5568&layout=compact&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&theme=github_dark&hide_border=true&bg_color=03060f&title_color=00d4aa&text_color=4a5568&layout=compact&langs_count=8" width="40%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=github-compact&hide_border=true&bg_color=03060f&color=00d4aa&line=4f8ef7&point=a78bfa&area=true&area_color=4f8ef7" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthaktanpure&theme=github-compact&hide_border=true&bg_color=03060f&color=00d4aa&line=4f8ef7&point=a78bfa&area=true&area_color=4f8ef7" width="96%"/>
 
 </div>
 
@@ -198,19 +198,19 @@ const sarthak = {
 
 <div align="center">
 
-<a href="https://github.com/omkar2446">
+<a href="https://github.com/Sarthaktanpure">
   <img src="https://img.shields.io/badge/GitHub-03060f?style=for-the-badge&logo=github&logoColor=e8edf4"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="https://www.linkedin.com/in/sarthak-tanpure-a74b5133a/">
   <img src="https://img.shields.io/badge/LinkedIn-03060f?style=for-the-badge&logo=linkedin&logoColor=4f8ef7"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="https://my-portfolio-sarthak-tanpure.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-03060f?style=for-the-badge&logo=vercel&logoColor=00d4aa"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="mailto:sarthaktanpure255@gmail.com">
   <img src="https://img.shields.io/badge/Email-03060f?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
 </a>
 
