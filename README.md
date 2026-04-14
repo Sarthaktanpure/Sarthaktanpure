@@ -1,32 +1,60 @@
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--              SARTHAK TANPURE · PREMIUM ANIMATED README             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HERO SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════╗ -->
+<!--            ANIMATED HERO BANNER         -->
+<!-- ╚══════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0f,60:0d1117,100:0a0a0f&height=280&section=header&text=Sarthak%20Tanpure&fontSize=62&fontColor=E6EDF3&fontAlignY=45&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20System%20Thinker&descSize=18&descAlignY=65&descColor=7D8590&animation=twinkling&stroke=00E5FF&strokeWidth=1.2"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=580&height=36&lines=Full+Stack+Engineer+%7C+MERN+%2B+System+Design;AI+%2F+ML+Integration+%26+Automation+Systems;Building+real-world+products+that+scale;Crafting+the+future%2C+one+commit+at+a+time." />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:060b14,75:0a1220,100:060b14&height=320&section=header&text=Sarthak%20Tanpure&fontSize=68&fontColor=E6EDF3&fontAlignY=42&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20System%20Thinker&descSize=19&descAlignY=60&descColor=00E5FF&animation=twinkling&stroke=00E5FF&strokeWidth=1.4"/>
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-00E5FF?style=flat-square&labelColor=0d1117&color=00E5FF"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-7957D5?style=flat-square&labelColor=0d1117&color=7957D5"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Goal-Top--Tier%20Engineer-FF6B6B?style=flat-square&labelColor=0d1117&color=FF6B6B"/>
-</p>
+<!-- ─── ANIMATED BUTTERFLY SPREADING STARS ─── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=800&color=7957D5&center=true&vCenter=true&width=400&height=28&lines=✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦+✧+✦;·+·+✦+·+·+✦+·+·+✦+·+·+✦+·+·;✧+·+·+·+✦+·+·+·+✧+·+·+·+✦+·" />
+
+<!-- Butterfly with glow effect flying across -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=🦋+·+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+🦋+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+·+·+·+🦋+·+·+·+·+·+·+·+·+·;·+·+·+·+·+·+·+·+🦋+·+·+·+·+·+·;·+·+·+·+·+·+·+·+·+·+·+🦋+·+·+·;·+·+·+·+·+·+·+·+·+·+·+·+·+·+🦋"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=🦋+·+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+🦋+·+·+·+·+·+·+·+·+·+·+·+·+·;·+·+·+·+·+🦋+·+·+·+·+·+·+·+·+·;·+·+·+·+·+·+·+·+🦋+·+·+·+·+·+·;·+·+·+·+·+·+·+·+·+·+·+🦋+·+·+·;·+·+·+·+·+·+·+·+·+·+·+·+·+·+🦋"/>
+</picture>
+
+<!-- Star shower spreading from butterfly -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=700&height=36&lines=✦+✧+·+✦+·+✧+✦+✧+·+✦+·+✧+✦;·+✦+✧+·+✦+✧+·+✦+✧+·+✦+✧+·+✦;✧+·+✦+·+✧+✦+·+✧+·+✦+✧+·+✦+·" />
+
+<br/>
+
+<!-- ─── MAIN TYPING LINE ─── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=36&lines=Full+Stack+Engineer+%7C+MERN+%2B+System+Design;AI+%2F+ML+Integration+%26+Automation+Systems;Building+real-world+products+that+scale;Crafting+the+future%2C+one+commit+at+a+time." />
+
+<br/>
+
+<!-- ─── STATUS BADGES ─── -->
+<img src="https://img.shields.io/badge/Status-Building%20in%20Public-00E5FF?style=flat-square&labelColor=0d1117&color=00E5FF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-7957D5?style=flat-square&labelColor=0d1117&color=7957D5"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Goal-Top--Tier%20Engineer-FF6B6B?style=flat-square&labelColor=0d1117&color=FF6B6B"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=omkar2446&label=Profile%20Views&color=00E5FF&style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ABOUT SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      ANIMATED DIVIDER                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -36,7 +64,7 @@
 
 <table align="center" border="0" width="90%">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```typescript
 const sarthak = {
@@ -49,15 +77,15 @@ const sarthak = {
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="48%" valign="top" align="center">
 
 <br/>
 
-🧠 &nbsp; **Deep systems thinker** <br/>
+✦ &nbsp; **Deep systems thinker** <br/>
 ⚙️ &nbsp; **Production-first builder** <br/>
 🤖 &nbsp; **AI/ML integrator** <br/>
 📊 &nbsp; **Data-driven decision maker** <br/>
-🌱 &nbsp; **Consistent, compounding growth**
+✧ &nbsp; **Consistent, compounding growth**
 
 <br/>
 
@@ -67,13 +95,27 @@ const sarthak = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  TECH STACK SECTION                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  BUTTERFLY FLYING ANIMATION ROW                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=44&lines=🌟+·+·+·+·+·+·+🦋+·+·+·+·+·+·+🌟+·+·+·+·+·;·+✦+·+·+·+·+🦋+·+·+·+·+·+✦+·+·+·+·+·+🌟+·;·+·+·+✦+·+🦋+·+·+✦+·+·+·+·+✦+·+·+·+·+✦+·;·+·+·+·+🦋+·+·+·+·+✦+·+·+·+·+·+✦+·+·+·+·;·+·+·+🦋+·+·+·+·+·+·+✦+·+·+·+·+·+✦+·+·+·;·+·+🦋+·+✦+·+·+·+·+·+·+·+✦+·+·+·+·+·+✦+·;·+🦋+·+·+·+✦+·+·+·+·+·+·+·+·+✦+·+·+·+·+·" />
+
+</div>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## ⚡ &nbsp; Arsenal
 
@@ -91,7 +133,7 @@ const sarthak = {
 
 **AI / ML & Data**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 
 <br/>
 
@@ -99,19 +141,27 @@ const sarthak = {
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- Star spread animation below stack -->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=600&height=28&lines=·+✦+·+·+✧+·+·+✦+·+✧+·+·+✦+·+·+✧;✧+·+·+✦+·+·+✧+·+·+✦+·+·+✧+·+·+✦;·+·+✦+·+✧+·+·+✦+·+·+✧+·+✦+·+·+✧" />
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   PROJECTS SECTION                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      PROJECTS SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🚀 &nbsp; Selected Work
+
+<!-- Butterfly traversal animation between sections -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=✦+·+·+·+·+·+·+·+🦋+·+·+·+·+✦+·+·;·+·+✦+·+·+·+🦋+·+·+·+✦+·+·+·+·+✦;·+·+·+·+🦋+·+·+✦+·+·+·+·+✦+·+·+·" />
 
 <br/>
 
@@ -162,7 +212,7 @@ const sarthak = {
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
-![Scikit--learn](https://img.shields.io/badge/-Sklearn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Sklearn](https://img.shields.io/badge/-Sklearn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0d1117?style=flat-square&logo=plotly&logoColor=3F4F75)
 
 </td>
@@ -185,13 +235,15 @@ const sarthak = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  GITHUB STATS SECTION                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📊 &nbsp; GitHub Analytics
 
@@ -209,15 +261,18 @@ const sarthak = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=github-compact&hide_border=true&bg_color=0d1117&color=00E5FF&line=7957D5&point=FF6B6B&area=true&area_color=7957D5" width="96%"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- Butterfly + star spread on stats -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=38&lines=✦+·+·+·+·+🦋+·+·+✦+·+·+·+🦋+·+·+·+✦;·+🦋+·+·+✦+·+·+·+·+🦋+·+✦+·+·+·+·+🦋;·+·+✦+🦋+·+·+·+✦+·+🦋+·+·+·+✦+·+🦋+·" />
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  PHILOSOPHY SECTION                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     PHILOSOPHY SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -238,17 +293,24 @@ const sarthak = {
   Idea → Design → Build → Ship → Iterate → Scale → Repeat.
 ```
 
+<br/>
+
+<!-- Final butterfly farewell animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=0&color=7957D5&center=true&vCenter=true&repeat=true&width=700&height=44&lines=🌟+·+·+·+🦋+·+·+·+✦+·+·+·+🦋+·+·+·+🌟;·+✦+·+🦋+·+·+·+✦+·+·+·+🦋+·+·+✦+·+·+🌟;·+·+🦋+·+·+✦+·+·+·+🦋+·+·+·+✦+·+·+🌟+·;·+🦋+·+·+·+·+✦+·+🦋+·+·+·+·+✦+·+·+·+🌟" />
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    CONNECT SECTION                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🌐 &nbsp; Let's Connect
 
@@ -278,12 +340,16 @@ const sarthak = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     FOOTER                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:00E5FF&height=100&section=footer&reversal=false&fontColor=00E5FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060b14,40:0a1220,80:0d1117,100:00E5FF&height=120&section=footer&fontColor=00E5FF"/>
 
 <div align="center">
-<sub>Designed with precision · Built with purpose · Shipped with intent</sub>
+<sub>
+
+✦ Designed with precision · 🦋 Built with purpose · ✧ Shipped with intent ✦
+
+</sub>
 </div>
