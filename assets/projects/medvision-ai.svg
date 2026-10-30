@@ -1,1 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 260"><rect width="700" height="260" rx="16" fill="#110b20"/><circle cx="565" cy="130" r="78" fill="#21133f"/><circle cx="565" cy="130" r="50" fill="none" stroke="#a78bfa" stroke-width="3"/><path d="M520 130h90M565 85v90" stroke="#22d3ee" opacity=".7"/><circle cx="586" cy="110" r="16" fill="#f472b6" opacity=".8"><animate attributeName="r" values="13;20;13" dur="2s" repeatCount="indefinite"/></circle><text x="34" y="55" fill="#c4b5fd" font-family="monospace" font-size="16">EXPLAINABLE AI / 04</text><text x="34" y="108" fill="white" font-family="Arial" font-weight="700" font-size="40">MEDIVISION AI</text><text x="34" y="153" fill="#cbd5e1" font-family="monospace" font-size="16">medical imaging / Grad-CAM / FastAPI</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="medBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a18" />
+      <stop offset="50%" stop-color="#110d24" />
+      <stop offset="100%" stop-color="#080714" />
+    </linearGradient>
+    <linearGradient id="medBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#ec4899" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.8" />
+    </linearGradient>
+    <radialGradient id="camHeat" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.85" />
+      <stop offset="40%" stop-color="#f59e0b" stop-opacity="0.65" />
+      <stop offset="75%" stop-color="#3b82f6" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    @keyframes pulseMed { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
+    .pulse-med { animation: pulseMed 2s infinite ease-in-out; }
+  </style>
+
+  <!-- Frame -->
+  <rect width="798" height="358" x="1" y="1" rx="16" fill="url(#medBg)" stroke="url(#medBorder)" stroke-width="1.5" />
+
+  <!-- Top Bar -->
+  <rect x="24" y="20" width="752" height="38" rx="8" fill="#18132e" stroke="#2d2254" />
+  <circle cx="44" cy="39" r="5" fill="#ef4444" />
+  <circle cx="60" cy="39" r="5" fill="#f59e0b" />
+  <circle cx="76" cy="39" r="5" fill="#10b981" />
+  <text x="100" y="43" class="mono" font-size="11" fill="#94a3b8" letter-spacing="1">PROJECT:04 // APPLIED AI &amp; EXPLAINABLE COMPUTER VISION</text>
+  <g class="pulse-med">
+    <circle cx="700" cy="39" r="4" fill="#c084fc" />
+  </g>
+  <text x="712" y="43" class="mono" font-size="11" fill="#c084fc" font-weight="600">INFERENCE READY</text>
+
+  <!-- Title & Tagline -->
+  <text x="28" y="94" class="sans" font-size="30" font-weight="800" fill="#f8fafc" letter-spacing="-0.5">MediVision AI</text>
+  <text x="28" y="118" class="sans" font-size="13" fill="#94a3b8">Radiology triage &amp; explainable medical diagnostics using deep CNNs &amp; Grad-CAM heatmaps</text>
+
+  <!-- Middle Pipeline Visualization -->
+  <g transform="translate(28, 140)">
+    <!-- Stage 1: Scan Ingestion -->
+    <rect x="0" y="0" width="165" height="142" rx="8" fill="#130e29" stroke="#2a1d52" />
+    <text x="14" y="24" class="mono" font-size="10.5" fill="#c084fc" letter-spacing="0.5">01 // SCAN INPUT</text>
+    <!-- Mock X-Ray Frame -->
+    <rect x="20" y="38" width="125" height="74" rx="4" fill="#030712" stroke="#1f2937" />
+    <ellipse cx="82" cy="75" rx="35" ry="25" fill="#1e293b" opacity="0.6" />
+    <path d="M60 65 Q82 95 104 65" stroke="#475569" fill="none" stroke-width="2" />
+    <text x="14" y="128" class="sans" font-size="11" fill="#cbd5e1">CT / MRI / X-Ray (DICOM)</text>
+
+    <!-- Arrow 1 -->
+    <text x="173" y="76" class="mono" font-size="14" fill="#64748b">→</text>
+
+    <!-- Stage 2: CNN Feature Extraction -->
+    <rect x="194" y="0" width="180" height="142" rx="8" fill="#130e29" stroke="#2a1d52" />
+    <text x="14" y="24" class="mono" font-size="10.5" fill="#a78bfa" letter-spacing="0.5">02 // CNN CLASSIFIER</text>
+    <rect x="14" y="42" width="152" height="24" rx="4" fill="#1e1346" />
+    <text x="22" y="58" class="mono" font-size="11" fill="#c4b5fd">OpenCV CLAHE Filter</text>
+    <rect x="14" y="72" width="152" height="24" rx="4" fill="#1e1346" />
+    <text x="22" y="88" class="mono" font-size="11" fill="#c4b5fd">Deep Conv Layers</text>
+    <rect x="14" y="102" width="152" height="24" rx="4" fill="#1e1346" />
+    <text x="22" y="118" class="mono" font-size="11" fill="#c4b5fd">Dense Feature Vector</text>
+
+    <!-- Arrow 2 -->
+    <text x="382" y="76" class="mono" font-size="14" fill="#64748b">→</text>
+
+    <!-- Stage 3: Grad-CAM Explainability -->
+    <rect x="402" y="0" width="165" height="142" rx="8" fill="#130e29" stroke="#2a1d52" />
+    <text x="14" y="24" class="mono" font-size="10.5" fill="#ec4899" letter-spacing="0.5">03 // GRAD-CAM</text>
+    <!-- Heatmap Overlay Simulation -->
+    <rect x="20" y="38" width="125" height="74" rx="4" fill="#030712" stroke="#1f2937" />
+    <ellipse cx="82" cy="75" rx="35" ry="25" fill="#1e293b" opacity="0.6" />
+    <circle cx="82" cy="75" r="24" fill="url(#camHeat)" />
+    <text x="14" y="128" class="sans" font-size="11" fill="#f43f5e">Visual Saliency Map</text>
+
+    <!-- Arrow 3 -->
+    <text x="575" y="76" class="mono" font-size="14" fill="#64748b">→</text>
+
+    <!-- Stage 4: Triage & Clinician Report -->
+    <rect x="594" y="0" width="150" height="142" rx="8" fill="#0f1f2e" stroke="#0e4e68" />
+    <text x="12" y="24" class="mono" font-size="10.5" fill="#22d3ee" letter-spacing="0.5">04 // REPORT</text>
+    <text x="12" y="52" class="sans" font-size="11" fill="#94a3b8">Confidence:</text>
+    <text x="12" y="74" class="mono" font-size="18" fill="#34d399" font-weight="700">96.4%</text>
+    <rect x="12" y="86" width="126" height="42" rx="4" fill="#082b3d" />
+    <text x="18" y="103" class="mono" font-size="9.5" fill="#7dd3fc">Structured Notes</text>
+    <text x="18" y="118" class="mono" font-size="9.5" fill="#38bdf8">EHR Export Ready</text>
+  </g>
+
+  <!-- Tech Badges Footer -->
+  <g transform="translate(28, 308)">
+    <rect x="0" y="0" width="76" height="26" rx="5" fill="#022c22" stroke="#059669" stroke-opacity="0.4" />
+    <text x="10" y="17" class="mono" font-size="11" fill="#6ee7b7">FastAPI</text>
+
+    <rect x="84" y="0" width="70" height="26" rx="5" fill="#172554" stroke="#2563eb" stroke-opacity="0.4" />
+    <text x="94" y="17" class="mono" font-size="11" fill="#93c5fd">Python</text>
+
+    <rect x="162" y="0" width="100" height="26" rx="5" fill="#1e1346" stroke="#8b5cf6" stroke-opacity="0.4" />
+    <text x="172" y="17" class="mono" font-size="11" fill="#c4b5fd">PyTorch/CNN</text>
+
+    <rect x="270" y="0" width="92" height="26" rx="5" fill="#371b2d" stroke="#db2777" stroke-opacity="0.4" />
+    <text x="280" y="17" class="mono" font-size="11" fill="#f472b6">Grad-CAM</text>
+
+    <rect x="370" y="0" width="74" height="26" rx="5" fill="#1f2937" stroke="#475569" stroke-opacity="0.4" />
+    <text x="380" y="17" class="mono" font-size="11" fill="#cbd5e1">OpenCV</text>
+
+    <rect x="452" y="0" width="100" height="26" rx="5" fill="#172554" stroke="#3b82f6" stroke-opacity="0.4" />
+    <text x="462" y="17" class="mono" font-size="11" fill="#93c5fd">TypeScript</text>
+
+    <rect x="560" y="0" width="60" height="26" rx="5" fill="#17122e" stroke="#8b5cf6" stroke-opacity="0.4" />
+    <text x="572" y="17" class="mono" font-size="11" fill="#c4b5fd">React</text>
+  </g>
+</svg>

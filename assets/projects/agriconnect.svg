@@ -1,1 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 260"><rect width="700" height="260" rx="16" fill="#0c1510"/><path d="M0 196Q130 90 270 184T510 150T700 185v75H0z" fill="#173725"/><path d="M470 60c60 10 80 65 36 112-55-10-68-72-36-112z" fill="#4ade80"/><path d="M484 160l16-68" stroke="#dcfce7" stroke-width="5"/><text x="34" y="55" fill="#86efac" font-family="monospace" font-size="16">DIRECT MARKETPLACE / 03</text><text x="34" y="108" fill="white" font-family="Arial" font-weight="700" font-size="40">AGRI CONNECT</text><text x="34" y="153" fill="#bbf7d0" font-family="monospace" font-size="16">farmer ⇄ buyer / crop listings</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="agriBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06120e" />
+      <stop offset="50%" stop-color="#0a1917" />
+      <stop offset="100%" stop-color="#060e14" />
+    </linearGradient>
+    <linearGradient id="agriBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    @keyframes pulseAgri { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
+    .pulse-agri { animation: pulseAgri 2s infinite ease-in-out; }
+  </style>
+
+  <!-- Frame -->
+  <rect width="798" height="358" x="1" y="1" rx="16" fill="url(#agriBg)" stroke="url(#agriBorder)" stroke-width="1.5" />
+
+  <!-- Top Bar -->
+  <rect x="24" y="20" width="752" height="38" rx="8" fill="#0f261e" stroke="#164e3c" />
+  <circle cx="44" cy="39" r="5" fill="#ef4444" />
+  <circle cx="60" cy="39" r="5" fill="#f59e0b" />
+  <circle cx="76" cy="39" r="5" fill="#10b981" />
+  <text x="100" y="43" class="mono" font-size="11" fill="#94a3b8" letter-spacing="1">PROJECT:03 // DIRECT AGRICULTURAL MARKETPLACE &amp; COMMERCE</text>
+  <g class="pulse-agri">
+    <circle cx="700" cy="39" r="4" fill="#34d399" />
+  </g>
+  <text x="712" y="43" class="mono" font-size="11" fill="#34d399" font-weight="600">MARKET LIVE</text>
+
+  <!-- Title & Tagline -->
+  <text x="28" y="94" class="sans" font-size="30" font-weight="800" fill="#f8fafc" letter-spacing="-0.5">AgriConnect</text>
+  <text x="28" y="118" class="sans" font-size="13" fill="#94a3b8">Farmer-to-buyer direct marketplace cutting out middlemen with transparent pricing</text>
+
+  <!-- Middle Section: Trade Protocol Flow -->
+  <g transform="translate(28, 140)">
+    <!-- Farmer Card -->
+    <rect x="0" y="0" width="220" height="142" rx="8" fill="#0b1b15" stroke="#1e3a2f" />
+    <text x="16" y="26" class="sans" font-size="13" fill="#34d399" font-weight="700">👨‍🌾 PRODUCER / FARMER</text>
+    <text x="16" y="48" class="mono" font-size="11" fill="#94a3b8">Role: Farmer (Auth)</text>
+    <line x1="16" y1="58" x2="204" y2="58" stroke="#164e3c" />
+    <text x="16" y="78" class="sans" font-size="11.5" fill="#cbd5e1">• Crop listing creation</text>
+    <text x="16" y="98" class="sans" font-size="11.5" fill="#cbd5e1">• Quantity &amp; base pricing</text>
+    <text x="16" y="118" class="sans" font-size="11.5" fill="#cbd5e1">• Real-time offer requests</text>
+    <rect x="16" y="126" width="70" height="4" rx="2" fill="#10b981" />
+
+    <!-- Center Bridge -->
+    <g transform="translate(236, 32)">
+      <rect x="0" y="0" width="270" height="78" rx="8" fill="#0e2329" stroke="#155e75" />
+      <text x="16" y="24" class="mono" font-size="10.5" fill="#22d3ee" letter-spacing="1">ZERO INTERMEDIARY BRIDGE</text>
+      <text x="16" y="44" class="sans" font-size="12" fill="#f8fafc" font-weight="600">Fair Value · Direct Settlement</text>
+      <text x="16" y="62" class="mono" font-size="10" fill="#94a3b8">REST API · JWT Token Validation</text>
+      <line x1="-16" y1="39" x2="0" y2="39" stroke="#22d3ee" stroke-width="2" stroke-dasharray="3 3" />
+      <line x1="270" y1="39" x2="286" y2="39" stroke="#22d3ee" stroke-width="2" stroke-dasharray="3 3" />
+    </g>
+
+    <!-- Buyer Card -->
+    <rect x="522" y="0" width="222" height="142" rx="8" fill="#081b24" stroke="#164e63" />
+    <text x="16" y="26" class="sans" font-size="13" fill="#38bdf8" font-weight="700">🛒 COMMERCIAL BUYER</text>
+    <text x="16" y="48" class="mono" font-size="11" fill="#94a3b8">Role: Buyer (Verified)</text>
+    <line x1="16" y1="58" x2="206" y2="58" stroke="#155e75" />
+    <text x="16" y="78" class="sans" font-size="11.5" fill="#cbd5e1">• Live commodity catalog</text>
+    <text x="16" y="98" class="sans" font-size="11.5" fill="#cbd5e1">• Direct farmer contact</text>
+    <text x="16" y="118" class="sans" font-size="11.5" fill="#cbd5e1">• Filter by harvest &amp; yield</text>
+    <rect x="16" y="126" width="70" height="4" rx="2" fill="#38bdf8" />
+  </g>
+
+  <!-- Tech Badges Footer -->
+  <g transform="translate(28, 308)">
+    <rect x="0" y="0" width="60" height="26" rx="5" fill="#17122e" stroke="#8b5cf6" stroke-opacity="0.4" />
+    <text x="12" y="17" class="mono" font-size="11" fill="#c4b5fd">React</text>
+
+    <rect x="68" y="0" width="54" height="26" rx="5" fill="#17122e" stroke="#8b5cf6" stroke-opacity="0.4" />
+    <text x="79" y="17" class="mono" font-size="11" fill="#c4b5fd">Vite</text>
+
+    <rect x="130" y="0" width="105" height="26" rx="5" fill="#083344" stroke="#06b6d4" stroke-opacity="0.4" />
+    <text x="140" y="17" class="mono" font-size="11" fill="#67e8f9">Tailwind CSS</text>
+
+    <rect x="243" y="0" width="76" height="26" rx="5" fill="#0f291e" stroke="#10b981" stroke-opacity="0.4" />
+    <text x="253" y="17" class="mono" font-size="11" fill="#6ee7b7">Node.js</text>
+
+    <rect x="327" y="0" width="78" height="26" rx="5" fill="#0f291e" stroke="#10b981" stroke-opacity="0.4" />
+    <text x="337" y="17" class="mono" font-size="11" fill="#6ee7b7">Express</text>
+
+    <rect x="413" y="0" width="85" height="26" rx="5" fill="#082f49" stroke="#0284c7" stroke-opacity="0.4" />
+    <text x="423" y="17" class="mono" font-size="11" fill="#7dd3fc">MongoDB</text>
+
+    <rect x="506" y="0" width="85" height="26" rx="5" fill="#1e1b4b" stroke="#8b5cf6" stroke-opacity="0.4" />
+    <text x="517" y="17" class="mono" font-size="11" fill="#c4b5fd">JWT Auth</text>
+
+    <rect x="599" y="0" width="76" height="26" rx="5" fill="#111827" stroke="#475569" stroke-opacity="0.4" />
+    <text x="612" y="17" class="mono" font-size="11" fill="#cbd5e1">Vercel</text>
+  </g>
+</svg>

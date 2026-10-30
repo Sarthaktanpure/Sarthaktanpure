@@ -1,1 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" role="img"><defs><linearGradient id="g"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs><path d="M0 35h410l35-22 45 44 50-44 45 22h615" fill="none" stroke="url(#g)" stroke-width="2"/><circle cx="490" cy="57" r="4" fill="#22d3ee"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="50%" stop-color="#0a1024" />
+      <stop offset="100%" stop-color="#060913" />
+    </linearGradient>
+    <linearGradient id="footLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0" />
+      <stop offset="25%" stop-color="#8b5cf6" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="1" />
+      <stop offset="75%" stop-color="#8b5cf6" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
+    </linearGradient>
+    <filter id="footGlow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <!-- Frame -->
+  <rect width="1198" height="118" x="1" y="1" rx="14" fill="url(#footBg)" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Top Glowing Border Beam -->
+  <line x1="80" y1="2" x2="1120" y2="2" stroke="url(#footLine)" stroke-width="2" filter="url(#footGlow)" />
+  <circle cx="600" cy="2" r="3" fill="#22d3ee" filter="url(#footGlow)" />
+
+  <!-- Center Statement -->
+  <text x="600" y="44" class="sans" font-size="14" font-weight="700" fill="#f8fafc" text-anchor="middle" letter-spacing="1">
+    DESIGNED WITH INTENT · ARCHITECTED FOR SCALE · BUILT FOR RELIABILITY
+  </text>
+
+  <!-- Coordinates & Identity -->
+  <text x="600" y="70" class="mono" font-size="11" fill="#94a3b8" text-anchor="middle" letter-spacing="1.5">
+    SARTHAK TANPURE // MAHARASHTRA, INDIA [19.53° N, 74.65° E]
+  </text>
+
+  <!-- Bottom Details -->
+  <text x="600" y="94" class="mono" font-size="10.5" fill="#64748b" text-anchor="middle">
+    Pravara Rural Engineering College (PREC Loni) · Third-Year B.Tech IT (9.0 CGPA) · Co-Founder @ WebCraft Studio
+  </text>
+</svg>

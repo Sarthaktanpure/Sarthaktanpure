@@ -2,24 +2,67 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>The Engineer's Arcade</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Engineer's Arcade — Sarthak Tanpure</title>
+    <meta name="description" content="Interactive browser engineering simulation & games by Sarthak Tanpure. Featuring Developer Quiz, Terminal Challenge, and Playable Snake." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <main>
-      <p class="eyebrow">SARTHAK TANPURE / ARCADE</p>
-      <h1>The Engineer's Arcade</h1>
-      <p id="intro">
-        Choose a mode. Both challenges run entirely in your browser.
-      </p>
-      <nav>
-        <button data-game="quiz">Developer Quiz</button
-        ><button data-game="terminal">Terminal Challenge</button>
-      </nav>
-      <section id="game"></section>
-      <a href="../README.md">← Back to profile</a>
-    </main>
+    <!-- Background Canvas for Matrix Rain -->
+    <canvas id="matrixCanvas"></canvas>
+
+    <div class="arcade-wrapper">
+      <!-- Header HUD -->
+      <header class="arcade-header">
+        <div class="header-left">
+          <div class="status-pulse"></div>
+          <span class="mono eyebrow">SYS_POD // SARTHAK TANPURE</span>
+        </div>
+        <div class="header-controls">
+          <button id="audioToggle" class="btn-ctrl" title="Toggle Sound FX">🔊 SFX ON</button>
+          <button id="matrixToggle" class="btn-ctrl" title="Toggle Matrix Rain">⚡ MATRIX</button>
+          <a href="../README.md" class="btn-ctrl link-btn">← PROFILE</a>
+        </div>
+      </header>
+
+      <!-- Main Arcade Container -->
+      <main class="arcade-card">
+        <div class="marquee-bar">
+          <span class="marquee-title">THE ENGINEER'S ARCADE</span>
+          <span class="mono marquee-status">SIMULATION POD READY</span>
+        </div>
+
+        <!-- Mode Selector Tabs -->
+        <nav class="mode-tabs">
+          <button class="tab-btn active" data-game="quiz">
+            <span class="tab-icon">🧠</span>
+            <span class="tab-text">Developer Quiz</span>
+          </button>
+          <button class="tab-btn" data-game="terminal">
+            <span class="tab-icon">💻</span>
+            <span class="tab-text">Terminal Challenge</span>
+          </button>
+          <button class="tab-btn" data-game="snake">
+            <span class="tab-icon">🐍</span>
+            <span class="tab-text">Playable Snake</span>
+          </button>
+        </nav>
+
+        <!-- Dynamic Game Surface -->
+        <section id="gameArea" class="game-area">
+          <!-- Injected via JavaScript -->
+        </section>
+      </main>
+
+      <!-- Footer Info -->
+      <footer class="arcade-footer mono">
+        <span>RUNNING IN YOUR BROWSER · 0 EXTERNAL LIBRARIES · CRAFTED WITH VANILLA JS</span>
+      </footer>
+    </div>
+
     <script src="app.js"></script>
   </body>
 </html>
