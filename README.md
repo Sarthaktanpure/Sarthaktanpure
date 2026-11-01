@@ -83,25 +83,6 @@ $ ./sysinfo --telemetry
 Architectural approach: Grounded in real-world dependability. I build where the API
 meets the storage layer — turning complex workflows into resilient, measurable systems.
 ```
-
-</td>
-<td width="42%" valign="top">
-
-### `// CORE VALUES & OPERATING PHILOSOPHY`
-
-* 🛡️ **Zero Unmeasured Assumptions**  
-  Every production endpoint should be monitored, latency-measured, and logged. (Built into [API Sentinel](#01-api-sentinel)).
-
-* ⚙️ **Deliberate Architecture Over Hype**  
-  Clean domain boundaries, strict schema validation, role-based authorization (RBAC), and transactional integrity.
-
-* 🧠 **Applied AI for Real Outcomes**  
-  AI is most valuable when it assists human specialists with explainability, confidence scoring, and visual verification.
-
-* ⚡ **Algorithmic Rigor**  
-  Continuous problem-solving in Java: mastering graph traversals, dynamic programming, heaps, and tree structures.
-
-</td>
 </tr>
 </table>
 
