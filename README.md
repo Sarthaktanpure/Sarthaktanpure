@@ -1,624 +1,277 @@
-<div align="center">
-
-  <!-- Hero Header Banner -->
-  <a href="#command-center">
-    <img src="assets/hero.svg" width="100%" alt="Sarthak Tanpure — Software Engineer, Backend & Full-Stack Systems" />
-  </a>
-
-  <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/Sarthaktanpure">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=22D3EE&background=06091300&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Software+Engineer+%C2%B7+Backend+%26+Distributed+Systems;%F0%9F%9B%A0%EF%B8%8F+Full-Stack+Builder+%C2%B7+High-Performance+REST+APIs;%F0%9F%A4%96+Applied+AI+%C2%B7+Medical+Vision+%26+Explainable+Models;%F0%9F%9A%80+Co-Founder+%40+WebCraft+Studio+%C2%B7+Shipping+Client+Products;%E2%98%95+200%2B+Java+DSA+Solved+%C2%B7+9.0%2F10+CGPA+%40+PREC+Loni" alt="Sarthak Tanpure Typing Simulation" />
-  </a>
-
-  <!-- Telemetry Metadata Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/IDENTITY-Software_Engineer-0f172a?style=flat-square&labelColor=060913&logoColor=22d3ee" alt="Identity" />
-    <img src="https://img.shields.io/badge/ACADEMICS-B.Tech_IT_%C2%B7_9.0_CGPA-8b5cf6?style=flat-square&labelColor=060913" alt="Academics" />
-    <img src="https://img.shields.io/badge/LOCATION-India_[19.53%C2%B0_N,_74.65%C2%B0_E]-0f172a?style=flat-square&labelColor=060913&logoColor=38bdf8" alt="Location" />
-    <img src="https://img.shields.io/badge/STATUS-Open_to_SDE_Internships-10b981?style=flat-square&labelColor=060913" alt="Status" />
-  </p>
-
-  <!-- Connect & Dispatch Links -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sarthak-tanpure-a74b5133a">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Sarthaktanpure">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:sarthaktanpure255@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://my-portfolio-five-phi-26.vercel.app/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio" />
-    </a>
-    <a href="https://webcraftstudioofficial.online">
-      <img src="https://img.shields.io/badge/WEBCRAFT_STUDIO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="WebCraft Studio" />
-    </a>
-  </p>
-
-  <!-- Quick Anchor Navigation -->
-  <p align="center">
-    <code><a href="#command-center">01 // COMMAND CENTER</a></code> &nbsp;•&nbsp;
-    <code><a href="#technology-arsenal">02 // TECH ARSENAL</a></code> &nbsp;•&nbsp;
-    <code><a href="#featured-projects">03 // FEATURED BUILDS</a></code> &nbsp;•&nbsp;
-    <code><a href="#engineers-arcade">04 // THE ARCADE</a></code> &nbsp;•&nbsp;
-    <code><a href="#activity-telemetry">05 // TELEMETRY</a></code> &nbsp;•&nbsp;
-    <code><a href="#engineering-timeline">06 // TIMELINE</a></code> &nbsp;•&nbsp;
-    <code><a href="#dispatch-connect">07 // CONTACT</a></code>
-  </p>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="Section Divider" />
-
-<a id="command-center"></a>
-
-## `>_` Engineering Command Center
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-```console
-$ whoami
-Sarthak Tanpure — Software Engineer based in India [19.53° N, 74.65° E]
-Third-year B.Tech IT @ Pravara Rural Engineering College (PREC Loni) · CGPA: 9.0/10
-
-$ cat developer_profile.json
-{
-  "identity": "Software Engineer · Backend Systems · Full-Stack · Applied AI",
-  "mission": "Engineering dependable software that solves real operational bottlenecks",
-  "core_focus": [
-    "High-throughput RESTful APIs & telemetry",
-    "Scalable multi-tenant full-stack platforms",
-    "Explainable AI computer-vision pipelines"
-  ],
-  "problem_solving": "200+ Java Data Structures & Algorithms solved",
-  "venture": "Co-Founder @ WebCraft Studio (End-to-End Client Architecture)",
-  "open_to": ["SDE Internships", "Backend Engineering", "Open Source Collaboration"]
-}
-
-$ ./sysinfo --telemetry
-Architectural approach: Grounded in real-world dependability. I build where the API
-meets the storage layer — turning complex workflows into resilient, measurable systems.
-```
-
-</td>
-<td width="42%" valign="top">
-
-### `// CORE VALUES & OPERATING PHILOSOPHY`
-
-* 🛡️ **Zero Unmeasured Assumptions**  
-  Every production endpoint should be monitored, latency-measured, and logged. (Built into [API Sentinel](#01-api-sentinel)).
-
-* ⚙️ **Deliberate Architecture Over Hype**  
-  Clean domain boundaries, strict schema validation, role-based authorization (RBAC), and transactional integrity.
-
-* 🧠 **Applied AI for Real Outcomes**  
-  AI is most valuable when it assists human specialists with explainability, confidence scoring, and visual verification.
-
-* ⚡ **Algorithmic Rigor**  
-  Continuous problem-solving in Java: mastering graph traversals, dynamic programming, heaps, and tree structures.
-
-</td>
-</tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="Section Divider" />
-
-<a id="technology-arsenal"></a>
-
-## `~/arsenal` — Technology Ecosystem
-
-<p align="center">
-  <a href="#technology-arsenal">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,vite,tailwind,nodejs,express,fastapi,mongodb,redis,git,github,postman,linux,vercel&theme=dark&perline=9" alt="Sarthak's Verified Tech Stack" />
-  </a>
+<div align="center"><a href="https://github.com/Sarthaktanpure">
+<img src="assets/hero.svg" width="100%" alt="Sarthak Tanpure — Software Engineering, Backend Systems and Applied AI" />
+</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=850&color=67E8F9&center=true&vCenter=true&width=850&height=42&lines=Backend+systems+%26+full-stack+engineering;Applied+AI+%26+explainable+machine+learning;Building+useful+products%2C+one+system+at+a+time;Java+DSA+%7C+200%2B+problems+solved" alt="Animated introduction" />
+<p>
+<a href="https://www.linkedin.com/in/sarthak-tanpure-a74b5133a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://my-portfolio-five-phi-26.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:sarthaktanpure255@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://webcraftstudioofficial.online"><img src="https://img.shields.io/badge/WebCraft-Studio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="WebCraft Studio"/></a>
 </p>
+<p>
+<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-334155?style=flat-square" alt="B.Tech IT"/>
+<img src="https://img.shields.io/badge/CGPA-9.0%2F10-0F766E?style=flat-square" alt="CGPA 9.0"/>
+<img src="https://img.shields.io/badge/DSA-200%2B%20Java%20Problems-7C3AED?style=flat-square" alt="200+ DSA"/>
+<img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-15803D?style=flat-square" alt="Open to SDE internships"/>
+</p><sub>Software engineering · Backend systems · Full-stack products ·
+Applied AI</sub>
+</div>01 / The person behind the code
+I’m Sarthak Tanpure, a third-year Information Technology engineering
+student at Pravara Rural Engineering College. I enjoy understanding
+how software works beneath the interface — from API design and data
+modeling to storage behavior and applied machine learning.
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="22%">Domain</th>
-      <th align="left" width="48%">Core Technologies</th>
-      <th align="left" width="30%">Architectural Role</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Languages</b></td>
-      <td><code>Java</code> <code>JavaScript (ES6+)</code> <code>TypeScript</code> <code>Python</code></td>
-      <td>DSA, OOP architecture, type safety, ML &amp; scripting</td>
-    </tr>
-    <tr>
-      <td><b>Backend Engineering</b></td>
-      <td><code>Node.js</code> <code>Express.js</code> <code>FastAPI</code> <code>RESTful APIs</code> <code>JWT Auth</code> <code>Bcrypt</code></td>
-      <td>High-throughput web services, RBAC auth, micro-routing</td>
-    </tr>
-    <tr>
-      <td><b>Frontend Engineering</b></td>
-      <td><code>React 19</code> <code>Vite</code> <code>Tailwind CSS</code> <code>HTML5</code> <code>CSS3</code> <code>Responsive UI</code></td>
-      <td>Component architecture, state management, SPA performance</td>
-    </tr>
-    <tr>
-      <td><b>Databases &amp; Caching</b></td>
-      <td><code>MongoDB</code> <code>Mongoose ODM</code> <code>Redis (Basics)</code> <code>JSON B-Trees</code></td>
-      <td>Document modeling, indexing, aggregation pipelines, caching</td>
-    </tr>
-    <tr>
-      <td><b>Applied AI &amp; ML</b></td>
-      <td><code>Deep CNNs</code> <code>Grad-CAM Heatmaps</code> <code>OpenCV (CLAHE)</code> <code>PyTorch (Basics)</code></td>
-      <td>Medical imaging triage, image enhancement, explainable AI</td>
-    </tr>
-    <tr>
-      <td><b>Tools &amp; Cloud Ops</b></td>
-      <td><code>Git</code> <code>GitHub Actions</code> <code>Postman</code> <code>Linux (WSL/Ubuntu)</code> <code>Vercel</code> <code>Render</code></td>
-      <td>Version control, automated CI/CD workflows, edge deployment</td>
-    </tr>
-  </tbody>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="Section Divider" />
-
-<a id="featured-projects"></a>
-
-## `~/projects` — Featured Engineering Builds
-
-Each project represents a production-minded build with verified architecture, real code implementations, and working deployments.
-
----
-
-<a id="01-api-sentinel"></a>
-
-### 01 / API Sentinel — Observability & Telemetry Platform `[NEWEST RELEASE]`
-
-<div align="center">
-  <a href="https://github.com/Sarthaktanpure/Api-Sentinel">
-    <img src="assets/projects/api-sentinel.svg" width="100%" alt="API Sentinel Architecture Schematic" />
-  </a>
-</div>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-**A full-stack API monitoring and health-tracking platform that enables engineering teams to observe endpoint availability, record live latency metrics, detect unexpected status codes, and retain complete diagnostic histories.**
-
-* **Centralized Endpoint Hub**: Register and configure mission-critical APIs with custom check frequencies and payloads.
-* **Telemetry & Latency Engine**: Measures request round-trip time (RTT), response sizes, and HTTP status codes in real time.
-* **Historical Health Auditing**: Stores structured logs in MongoDB for inspection of downtime incidents, latency spikes, and uptime percentages.
-* **Failure Alert Detection**: Flags degrading services before catastrophic outages occur.
-
-</td>
-<td width="35%" valign="top">
-
-```yaml
-system: API Sentinel
-status: Production Ready
-stack:
-  frontend: React, Vite, Axios
-  backend: Node.js, Express.js
-  database: MongoDB, Mongoose
-  telemetry: HTTP RTT Engine
-role: Creator & Architect
-repo: Sarthaktanpure/Api-Sentinel
-```
-
-<div align="center">
-  <a href="https://github.com/Sarthaktanpure/Api-Sentinel">
-    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository" />
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<a id="02-hospitalos"></a>
-
-### 02 / HospitalOS — Clinical Healthcare ERP & Operations System
-
-<div align="center">
-  <a href="https://hospital-os-black.vercel.app">
-    <img src="assets/projects/hospitalos.svg" width="100%" alt="HospitalOS Architecture Schematic" />
-  </a>
-</div>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-**A comprehensive, multi-role hospital management system designed to eliminate clinical paperwork and orchestrate hospital operations through dedicated role-based portals.**
-
-* **Multi-Role RBAC Matrix**: Dedicated secure portals for Administrators, Doctors, Receptionists, Nurses, Pharmacists, Lab Technicians, and Patients.
-* **Clinical Workflow Engine**: Digital prescriptions, appointment scheduling, treatment records, and patient medical history management.
-* **Laboratory & Pharmacy Integration**: Tracks diagnostic lab orders, pharmacy inventories, and dispense authorizations.
-* **Enterprise Security**: JWT-protected authentication, encrypted session handling, and granular authorization middleware.
-
-</td>
-<td width="35%" valign="top">
-
-```yaml
-system: HospitalOS
-status: Live on Vercel
-stack:
-  frontend: React 19, Tailwind CSS
-  backend: Node.js, Express.js
-  database: MongoDB, Mongoose
-  auth: JWT, Bcrypt
-role: Lead Full-Stack Architect
-live: hospital-os-black.vercel.app
-```
-
-<div align="center">
-  <a href="https://hospital-os-black.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE_PRODUCT_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-  <br />
-  <a href="https://github.com/Sarthaktanpure/HospitalOS">
-    <img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<a id="03-agriconnect"></a>
-
-### 03 / AgriConnect — Peer-to-Peer Agricultural Marketplace
-
-<div align="center">
-  <a href="https://agriconnect-ohet.vercel.app/listings">
-    <img src="assets/projects/agriconnect.svg" width="100%" alt="AgriConnect Architecture Schematic" />
-  </a>
-</div>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-**A full-stack agricultural commerce platform connecting farmers directly with commercial buyers, eliminating predatory middlemen and establishing transparent produce trade.**
-
-* **Direct Farmer Listings**: Farmers create, edit, and manage crop inventory with yield specifics, harvest dates, and base pricing.
-* **Commercial Buyer Discovery**: Buyers filter commodities by location, quantity, and pricing with direct inquiry capabilities.
-* **Zero Middleman Protocol**: Prevents unfair markup by allowing direct peer-to-peer transaction transparency.
-* **Decoupled Architecture**: High-speed React/Vite client deployed to Vercel paired with a robust REST API backend deployed on Render.
-
-</td>
-<td width="35%" valign="top">
-
-```yaml
-system: AgriConnect
-status: Live on Vercel & Render
-stack:
-  frontend: React, Vite, Tailwind CSS
-  backend: Node.js, Express.js
-  database: MongoDB, Mongoose
-  security: JWT Authentication
-role: Full-Stack Developer
-live: agriconnect-ohet.vercel.app
-```
-
-<div align="center">
-  <a href="https://agriconnect-ohet.vercel.app/listings">
-    <img src="https://img.shields.io/badge/EXPLORE_MARKETPLACE-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Marketplace" />
-  </a>
-  <br />
-  <a href="https://github.com/Sarthaktanpure/Agriconnect">
-    <img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<a id="04-medvision-ai"></a>
-
-### 04 / MediVision AI — Radiology Triage & Explainable AI
-
-<div align="center">
-  <a href="https://med-vision-ai-green.vercel.app">
-    <img src="assets/projects/medvision-ai.svg" width="100%" alt="MediVision AI Architecture Schematic" />
-  </a>
-</div>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-**An applied AI medical diagnostic platform assisting healthcare professionals with computer-vision triage on CT, MRI, and X-ray imaging using explainable AI heatmaps.**
-
-* **Multi-Modal Scan Ingestion**: Handles CT, MRI, and chest X-rays with interactive slice viewing and zoom inspection.
-* **Pre-Processing Pipeline**: Applies OpenCV CLAHE (Contrast Limited Adaptive Histogram Equalization) and noise-reduction filters.
-* **Explainable AI (Grad-CAM)**: Generates visual saliency heatmaps highlighting the exact anatomical regions responsible for the deep CNN prediction.
-* **Automated Clinician Summary**: Produces structured clinical reports with confidence scores (e.g. 96.4%) and diagnostic notes for EHR export.
-
-</td>
-<td width="35%" valign="top">
-
-```yaml
-system: MediVision AI
-status: Live on Vercel
-stack:
-  frontend: React, TypeScript
-  backend: FastAPI, Python
-  models: Deep CNNs, Grad-CAM
-  vision: OpenCV, NumPy
-role: Applied AI & Full-Stack
-live: med-vision-ai-green.vercel.app
-```
-
-<div align="center">
-  <a href="https://med-vision-ai-green.vercel.app">
-    <img src="https://img.shields.io/badge/LAUNCH_AI_PLATFORM-ec4899?style=for-the-badge&logo=fastapi&logoColor=white" alt="Launch AI Platform" />
-  </a>
-  <br />
-  <a href="https://github.com/Sarthaktanpure/MedVisionAI">
-    <img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<a id="05-webcraft-studio"></a>
-
-### 05 / WebCraft Studio — Digital Engineering Venture `[CO-FOUNDER]`
-
-<div align="center">
-  <a href="https://webcraftstudioofficial.online">
-    <img src="assets/projects/webcraft.svg" width="100%" alt="WebCraft Studio Architecture Schematic" />
-  </a>
-</div>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-**A web development and digital solutions studio delivering modern web applications, bespoke client architectures, and high-performance digital infrastructure for paying clients.**
-
-* **Venture Leadership**: Co-Founder directing technical architecture, requirements elicitation, and end-to-end project execution.
-* **Client Systems Architecture**: Translating commercial business needs into performant, responsive web apps with zero layout shift and sub-second load times.
-* **Full-Lifecycle Delivery**: From wireframes and database schemas to edge CDN deployments, SSL certificates, and client handoff.
-
-</td>
-<td width="35%" valign="top">
-
-```yaml
-venture: WebCraft Studio
-status: Operating Studio
-role: Co-Founder & Tech Lead
-domains:
-  - Custom Web Engineering
-  - High-Performance UI/UX
-  - Cloud Deployment & SEO
-url: webcraftstudioofficial.online
-repo: Sarthaktanpure/Web-Crafte
-```
-
-<div align="center">
-  <a href="https://webcraftstudioofficial.online">
-    <img src="https://img.shields.io/badge/VISIT_WEBCRAFT_STUDIO-f43f5e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit WebCraft Studio" />
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
+I learn by building: turning ideas into working applications, exploring
+engineering trade-offs, and improving systems through testing and
+iteration.
+- Currently focused on: Java, backend engineering, system design
+  fundamentals, and applied AI.
+- Problem solving: 200+ Data Structures & Algorithms problems solved
+  in Java.
+- Building beyond coursework: Co-founder at WebCraft
+  Studio, contributing to
+  technical architecture and client delivery.
+- Looking for: Software Development Engineer internships, backend
+  opportunities, and meaningful engineering collaborations.
 <details>
-<summary><b>🔍 Expand to View Additional Active Systems (AscendOS, MedGuardAI)</b></summary>
-<br />
+<summary>
+<strong>A little more about how I think</strong>
+</summary>Principle	What it means in practice
+Understand the system	Learn the path from request to application logic, storage, and response.
+Correctness before claims	Test behavior, investigate edge cases, and measure before reporting results.
+Build for real users	Prefer useful workflows and maintainable features over technology for its own sake.
+Keep learning	Strengthen fundamentals while exploring systems and applied AI.
 
-| System | Focus | Core Stack | Status |
-|:---|:---|:---|:---|
-| **[AscendOS](https://github.com/Sarthaktanpure/AscendOS)** | Production-minded personal career management & SDE milestone operating system | React 18, Vite, Service Workers, REST API | [Live Demo →](https://ascend-os-rust.vercel.app) |
-| **[MedGuardAI](https://github.com/Sarthaktanpure/MedGuardAI)** | Offline-first medicine verification & supply-chain counterfeit detection platform | TypeScript, Node.js, AI/ML, QR verification | In Active Development |
 
-</details>
-
-<img src="assets/divider.svg" width="100%" alt="Section Divider" />
-
-<a id="engineers-arcade"></a>
-
-## THE ENGINEER'S ARCADE
-
-An interactive simulation suite built directly into this repository. While GitHub READMEs do not execute arbitrary client-side JavaScript, the entire arcade is hosted live as a zero-dependency web app via GitHub Pages (and runs locally in `arcade/index.html`).
-
-<div align="center">
-  <a href="https://sarthaktanpure.github.io/Sarthaktanpure/arcade/">
-    <img src="assets/arcade/arcade-banner.svg" width="100%" alt="The Engineer's Arcade Banner" />
-  </a>
-</div>
-
-<br />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 GitHub Contribution Grid Snake
-
-<div align="center">
-  <!-- Live GitHub Actions snake animation from the output branch -->
-  <a href="https://github.com/Sarthaktanpure">
-    <img src="https://raw.githubusercontent.com/Sarthaktanpure/Sarthaktanpure/output/github-contribution-grid-snake-dark.svg" onerror="this.onerror=null;this.src='assets/arcade/snake-fallback.svg';" width="100%" alt="Animated Contribution Snake Traveling Through Sarthak's GitHub Grid" />
-  </a>
-</div>
-
+</details><img src="assets/divider.svg" width="100%" alt="Section divider"/>02 / The toolkit
 <p align="center">
-  <sub>Generated automatically every 24 hours at <code>00:00 UTC</code> from real GitHub commits via GitHub Actions.</sub>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,vite,tailwind,nodejs,express,fastapi,mongodb,redis,git,github,postman,linux&theme=dark&perline=8" alt="Technology stack"/>
 </p>
-
+<table>
+<thead>
+<tr>
+<th align="left">
+Area
+</th>
+<th align="left">
+Technologies & concepts
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong>Languages</strong>
 </td>
-<td width="50%" valign="top">
-
-### 🕹️ Interactive Browser Simulations
-
-Launch the simulations right in your browser with synthesized Web Audio sound FX and Matrix rain visuals:
-
-* **[🧠 Launch Developer Quiz →](https://sarthaktanpure.github.io/Sarthaktanpure/arcade/?game=quiz)**  
-  Test your knowledge on RFC 9110 HTTP idempotency, Java HashMap red-black tree collision resolution, MongoDB B-Tree indexing, and Node.js event loops.
-
-* **[💻 Launch Interactive Terminal →](https://sarthaktanpure.github.io/Sarthaktanpure/arcade/?game=terminal)**  
-  Simulated Linux shell supporting commands like `help`, `whoami`, `cat profile.json`, `projects`, `ping sentinel`, `dsa`, and secret easter eggs.
-
-* **[🐍 Play Retro Snake Game →](https://sarthaktanpure.github.io/Sarthaktanpure/arcade/?game=snake)**  
-  Play the arcade snake game eating glowing neon GitHub commit nodes with keyboard or mobile D-pad controls!
-
-<div align="center">
-  <br />
-  <a href="https://sarthaktanpure.github.io/Sarthaktanpure/arcade/">
-    <img src="https://img.shields.io/badge/PLAY_IN_BROWSER-22d3ee?style=for-the-badge&logo=gamepad&labelColor=060913" alt="Play in Browser" />
-  </a>
-</div>
-
+<td>
+Java · Python · JavaScript (ES6+) · TypeScript
 </td>
 </tr>
-</table>
+<tr>
+<td>
+<strong>Backend</strong>
+</td>
+<td>
+Node.js · Express.js · FastAPI · REST APIs · JWT authentication
+</td>
+</tr>
+<tr>
+<td>
+<strong>Frontend</strong>
+</td>
+<td>
+React · Vite · Tailwind CSS · Responsive UI
+</td>
+</tr>
+<tr>
+<td>
+<strong>Data</strong>
+</td>
+<td>
+MongoDB · Mongoose · Redis (fundamentals) · Schema design · Indexing
+</td>
+</tr>
+<tr>
+<td>
+<strong>Applied AI</strong>
+</td>
+<td>
+PyTorch · CNNs · Grad-CAM · OpenCV · RAG fundamentals · Embeddings
+</td>
+</tr>
+<tr>
+<td>
+<strong>Engineering</strong>
+</td>
+<td>
+DSA · OOP · RBAC · JUnit · API testing · Git · GitHub Actions · Vercel ·
+Render
+</td>
+</tr>
+<tr>
+<td>
+<strong>Exploring</strong>
+</td>
+<td>
+LSM-Trees · WAL · SSTables · Bloom filters · Compaction · Vector
+retrieval
+</td>
+</tr>
+</tbody>
+</table><img src="assets/divider.svg" width="100%" alt="Section divider"/>03 / Selected work
+I like projects that solve a concrete problem and offer room to explore
+the engineering underneath. Here are a few builds across backend
+systems, full-stack development, and applied AI.
+<a id="api-sentinel"></a>
+01 — API Sentinel
+API monitoring & reliability platform
+<a href="https://github.com/Sarthaktanpure/Api-Sentinel">
+<img src="assets/projects/api-sentinel.svg" width="100%" alt="API Sentinel project banner"/>
+</a>
+A full-stack platform for registering API endpoints, running health
+checks, measuring response times, and reviewing historical monitoring
+results.
+- Built endpoint management and health-check workflows using Node.js,
+  Express, and Axios.
+- Captured HTTP status codes, response times, and check outcomes, with
+  results persisted in MongoDB.
+- Developed a React dashboard for viewing endpoint status and
+  monitoring history.
+<sub><strong>Stack:</strong> React · Node.js · Express · MongoDB ·
+Mongoose · Axios</sub>
+<p>
+<a href="https://github.com/Sarthaktanpure/Api-Sentinel"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source code"/></a>
+</p>02 — HospitalOS
+Hospital operations & management platform
+<a href="https://hospital-os-black.vercel.app">
+<img src="assets/projects/hospitalos.svg" width="100%" alt="HospitalOS project banner"/>
+</a>
+A role-based hospital management platform designed to bring patient,
+staff, appointment, and operational workflows into one application.
+- Developed role-based workflows with JWT authentication and
+  authorization for different hospital user types.
+- Built modules for patient records, appointments, doctors, invoices,
+  medicines, laboratory workflows, and communication.
+- Used MongoDB and Redis to support application data and real-time
+  features.
+<sub><strong>Stack:</strong> React · Node.js · Express · MongoDB · Redis
+· JWT</sub>
+<p>
+<a href="https://hospital-os-black.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"/></a>
+<a href="https://github.com/Sarthaktanpure/HospitalOS"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source code"/></a>
+</p>03 — AgriConnect
+Agricultural marketplace
+<a href="https://agriconnect-ohet.vercel.app/listings">
+<img src="assets/projects/agriconnect.svg" width="100%" alt="AgriConnect project banner"/>
+</a>
+A marketplace connecting farmers and buyers through digital produce
+listings, discovery, and transaction-oriented workflows.
+- Built farmer listing and buyer discovery flows using React and
+  Express.
+- Implemented authentication and data persistence with JWT and
+  MongoDB.
+- Integrated payment and real-time interaction workflows using
+  Razorpay and Socket.IO.
+<sub><strong>Stack:</strong> React · Vite · Tailwind CSS · Node.js ·
+Express · MongoDB · Razorpay · Socket.IO</sub>
+<p>
+<a href="https://agriconnect-ohet.vercel.app/listings"><img src="https://img.shields.io/badge/Live_Marketplace-16A34A?style=flat-square&logo=vercel&logoColor=white" alt="Live marketplace"/></a>
+<a href="https://github.com/Sarthaktanpure/Agriconnect"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source code"/></a>
+</p>04 — MediVision AI
+Medical imaging & explainable AI
+<a href="https://med-vision-ai-green.vercel.app">
+<img src="assets/projects/medvision-ai.svg" width="100%" alt="MediVision AI project banner"/>
+</a>
+An applied computer-vision project exploring medical-image
+classification and visual explanations to help users inspect model
+predictions.
+- Developed a CNN-based image classification workflow for chest
+  X-ray images.
+- Used Grad-CAM to produce visual heatmaps that help interpret
+  regions influencing model predictions.
+- Combined a React application with a FastAPI inference service,
+  including an upload-later workflow for low-connectivity environments.
+<sub><strong>Stack:</strong> Python · PyTorch · FastAPI · React · CNN ·
+Grad-CAM</sub>
+<p>
+<a href="https://med-vision-ai-green.vercel.app"><img src="https://img.shields.io/badge/Project_Demo-DB2777?style=flat-square&logo=vercel&logoColor=white" alt="Project demo"/></a>
+<a href="https://github.com/Sarthaktanpure/MedVisionAI"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source code"/></a>
+</p>05 — WebCraft Studio
+Digital product & web development venture · Co-founder
+<a href="https://webcraftstudioofficial.online">
+<img src="assets/projects/webcraft.svg" width="100%" alt="WebCraft Studio banner"/>
+</a>
+A web development studio working with clients to translate business
+requirements into polished, practical web experiences.
+- Contribute to technical architecture, requirement gathering, and
+  implementation planning.
+- Work across responsive frontend development, backend integration, and
+  deployment.
+- Collaborate on client delivery and ongoing product improvements.
+<sub><strong>Focus:</strong> Product thinking · Full-stack development ·
+Client engineering · Deployment</sub>
+<p>
+<a href="https://webcraftstudioofficial.online"><img src="https://img.shields.io/badge/Visit_WebCraft-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit WebCraft Studio"/></a>
+</p>
+<details>
+<summary>
+<strong>More projects & explorations</strong>
+</summary>Project	What it explores	Link
+LSMTreeDB	Java-based log-structured key-value storage engine; exploring WAL, memtables, SSTables, and compaction.	Repository
+ResearchPilot	Document research assistant exploring RAG, semantic retrieval, and citation-grounded answers.	Repository
+MedGuardAI	Offline-oriented medicine verification and provenance concept developed for a hackathon.	Repository
+AscendOS	Personal career and learning management application.	Repository
 
-<img src="assets/divider.svg" width="100%" alt="Section Divider" />
 
-<a id="activity-telemetry"></a>
-
-## `~/telemetry` — Engineering Activity Dashboard
-
-Real-time telemetry and coding activity synchronized with GitHub's developer API:
-
+</details><img src="assets/divider.svg" width="100%" alt="Section divider"/>04 / The problem-solving habit
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&hide_border=true&rank_icon=github&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&bg_color=0D1117&include_all_commits=true" height="170" alt="GitHub statistics"/>
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&layout=compact&hide_border=true&title_color=67E8F9&text_color=CBD5E1&bg_color=0D1117" height="170" alt="Most used languages"/>
+<img src="https://streak-stats.demolab.com?user=Sarthaktanpure&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B" height="170" alt="GitHub contribution streak"/></div><sub>Stats are provided by third-party services and may occasionally be
+unavailable or delayed.</sub>
+<img src="assets/divider.svg" width="100%" alt="Section divider"/>05 / Current learning track
+FOCUS
+├── Java & problem solving
+│   ├── Data structures and algorithms
+│   ├── Object-oriented design
+│   └── Low-level design fundamentals
+│
+├── Backend engineering
+│   ├── Spring Boot and REST API design
+│   ├── PostgreSQL, data modeling, and indexing
+│   └── Testing, reliability, and performance
+│
+├── Systems
+│   ├── LSM-tree storage architecture
+│   ├── WAL, memtables, and SSTables
+│   └── Recovery, compaction, and benchmarking
+│
+└── Applied AI
+    ├── Retrieval-augmented generation
+    ├── Embeddings and semantic search
+    └── Explainability and evaluation
+<img src="assets/divider.svg" width="100%" alt="Section divider"/>06 / Beyond the editor
+I also enjoy building things with people, taking ideas from rough
+requirements to working products, and learning through technical
+competitions and collaborative projects.
+- WebCraft Studio: Co-founder, contributing to architecture and
+  client projects.
+- Hackathons: Experience collaborating on time-bound engineering
+  challenges.
+- India Tech Summit — Innovate 2026: Advanced to Round 2.
+<img src="assets/divider.svg" width="100%" alt="Section divider"/>07 / Let's build something useful
+I’m interested in SDE internships, backend and full-stack
+engineering, applied AI, and open-source collaboration. If you’re
+working on a thoughtful product or a challenging engineering problem,
+I’d be glad to connect.
 <div align="center">
+<a href="https://www.linkedin.com/in/sarthak-tanpure-a74b5133a"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sarthaktanpure255@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://my-portfolio-five-phi-26.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sarthaktanpure&show_icons=true&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=94a3b8&bg_color=060913&include_all_commits=true&count_private=true" alt="Sarthak's GitHub Metrics" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaktanpure&layout=compact&hide_border=true&title_color=8b5cf6&text_color=94a3b8&bg_color=060913" alt="Most Used Languages" />
 
-</div>
 
-<div align="center">
+<em>“Stay curious. Build with intent. Let the work speak.”</em>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthaktanpure&hide_border=true&background=060913&ring=8B5CF6&fire=22D3EE&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub Contribution Streak" />
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="Section Divider" />
-
-<a id="engineering-timeline"></a>
-
-## `~/timeline` — Verified Engineering Journey
-
-```diff
-@@ 2026 → PRESENT @@  Building Next-Gen Systems & Scaling WebCraft Studio
-```
-* **Featured Engineering Release**: Designed and launched **API Sentinel**, an observability platform for endpoint health checks and latency telemetry.
-* **Venture Scaling**: Co-Founding and scaling **WebCraft Studio**, architecting high-performance web applications and digital infrastructure for paying clients.
-* **Algorithmic Rigor**: Practiced over **200+ Java Data Structures and Algorithms** problems across LeetCode and competitive programming tracks (focused on Graphs, Trees, Heaps, and Dynamic Programming).
-* **Technical Competition**: Participated in national-level technical competitions including **India Tech Summit: Innovate 2026 Round 2** and hackathons.
-
-```diff
-@@ 2025 → 2026 @@  Full-Stack & Applied AI Architecture
-```
-* **Clinical Platform Engineering**: Architected **HospitalOS**, an enterprise MERN healthcare management platform with multi-tenant RBAC portals and live appointments.
-* **Applied AI Healthcare**: Developed **MediVision AI**, implementing CNN-based medical image triage with Grad-CAM visual explainability heatmaps on CT/MRI/X-ray scans.
-* **Agricultural Marketplace**: Shipped **AgriConnect**, connecting agricultural producers directly to buyers with decoupled Vercel & Render cloud deployments.
-
-```diff
-@@ 2022 → 2026 @@  B.Tech in Information Technology — Pravara Rural Engineering College
-```
-* **Academic Excellence**: Maintaining a cumulative **9.0 / 10 CGPA** in Information Technology at Pravara Rural Engineering College (PREC Loni, Ahmednagar, Maharashtra).
-* **Core Foundation**: Computer Networks, Database Management Systems, Operating Systems, Software Engineering, Object-Oriented Programming (Java/C++).
-
-<img src="assets/divider.svg" width="100%" alt="Section Divider" />
-
-<a id="current-focus"></a>
-
-## `engineering.config.yml` — Live Environment State
-
-```yaml
-developer:
-  name: "Sarthak Tanpure"
-  role: "Software Engineer · SDE Candidate"
-  origin: "Rahuri, Ahmednagar, Maharashtra, India"
-  education:
-    degree: "B.Tech in Information Technology (Year 3)"
-    institution: "Pravara Rural Engineering College, Loni"
-    standing: "9.0 / 10 CGPA"
-
-currently_building:
-  - "API Sentinel — Advanced latency telemetry & scheduled endpoint health checks"
-  - "High-throughput distributed backend architectures with caching & message queues"
-  - "Client web infrastructure & digital products through WebCraft Studio"
-
-learning_and_mastering:
-  - "Advanced Java Data Structures & Algorithms (200+ Solved & expanding)"
-  - "Low-Level Design (LLD) & High-Level System Design (HLD)"
-  - "Distributed database sharding, replication & query optimization"
-  - "Applied AI integrations with modern cloud backends"
-
-open_to_collaborate:
-  - "Software Development Engineer (SDE) Internships"
-  - "High-impact Backend & Full-Stack Engineering roles"
-  - "Open source developer tooling & systems software"
-```
-
-<img src="assets/divider.svg" width="100%" alt="Section Divider" />
-
-<a id="dispatch-connect"></a>
-
-## `// DISPATCH & CONTACT`
-
-I am actively exploring **Software Development Engineer (SDE) Internships**, collaborative backend initiatives, and high-impact engineering teams. If you are building dependable systems, let's talk.
-
-<div align="center">
-
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/sarthak-tanpure-a74b5133a">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br />
-          <sub><b>sarthak-tanpure-a74b5133a</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:sarthaktanpure255@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-Direct_Dispatch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /><br />
-          <sub><b>sarthaktanpure255@gmail.com</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Sarthaktanpure">
-          <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br />
-          <sub><b>@Sarthaktanpure</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://webcraftstudioofficial.online">
-          <img src="https://img.shields.io/badge/WebCraft_Studio-Venture-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebCraft" /><br />
-          <sub><b>webcraftstudioofficial.online</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-  <p>
-    <i>"Build with intent. Measure what matters. Keep learning in public."</i>
-  </p>
-  <br />
-
-  <!-- Animated Footer SVG -->
-  <a href="#command-center">
-    <img src="assets/footer.svg" width="100%" alt="Sarthak Tanpure Engineering Sign-Off Footer" />
-  </a>
-
+<a href="#top">Back to top ↑</a>
 </div>
