@@ -13,7 +13,7 @@
   <!-- Telemetry Metadata Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/IDENTITY-Software_Engineer-0f172a?style=flat-square&labelColor=060913&logoColor=22d3ee" alt="Identity" />
-    <img src="https://img.shields.io/badge/ACADEMICS-B.Tech_IT_%C2%B7_9.0_CGPA-8b5cf6?style=flat-square&labelColor=060913" alt="Academics" />
+    <img src="https://img.shields.io/badge/ACADEMICS-B.Tech_IT_%C2%B7_8.67_CGPA-8b5cf6?style=flat-square&labelColor=060913" alt="Academics" />
     <img src="https://img.shields.io/badge/LOCATION-India_[19.53%C2%B0_N,_74.65%C2%B0_E]-0f172a?style=flat-square&labelColor=060913&logoColor=38bdf8" alt="Location" />
     <img src="https://img.shields.io/badge/STATUS-Open_to_SDE_Internships-10b981?style=flat-square&labelColor=060913" alt="Status" />
   </p>
