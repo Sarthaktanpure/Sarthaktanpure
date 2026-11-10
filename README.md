@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Sarthaktanpure">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=22D3EE&background=06091300&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Software+Engineer+%C2%B7+Backend+%26+Distributed+Systems;%F0%9F%9B%A0%EF%B8%8F+Full-Stack+Builder+%C2%B7+High-Performance+REST+APIs;%F0%9F%A4%96+Applied+AI+%C2%B7+Medical+Vision+%26+Explainable+Models;%F0%9F%9A%80+Co-Founder+%40+WebCraft+Studio+%C2%B7+Shipping+Client+Products;%E2%98%95+200%2B+Java+DSA+Solved+%C2%B7+9.0%2F10+CGPA+%40+PREC+Loni" alt="Sarthak Tanpure Typing Simulation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=22D3EE&background=06091300&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Software+Engineer+%C2%B7+Backend+%26+Distributed+Systems;%F0%9F%9B%A0%EF%B8%8F+Full-Stack+Builder+%C2%B7+High-Performance+REST+APIs;%F0%9F%A4%96+Applied+AI+%C2%B7+Medical+Vision+%26+Explainable+Models;%F0%9F%9A%80+Co-Founder+%40+WebCraft+Studio+%C2%B7+Shipping+Client+Products;%E2%98%95+200%2B+Java+DSA+Solved+%C2%B7+8.67%2F10+CGPA+%40+PREC+Loni" alt="Sarthak Tanpure Typing Simulation" />
   </a>
 
   <!-- Telemetry Metadata Badges -->
