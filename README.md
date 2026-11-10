@@ -63,7 +63,7 @@
 ```console
 $ whoami
 Sarthak Tanpure — Software Engineer based in India [19.53° N, 74.65° E]
-Third-year B.Tech IT @ Pravara Rural Engineering College (PREC Loni) · CGPA: 9.0/10
+Third-year B.Tech IT @ Pravara Rural Engineering College (PREC Loni) · CGPA: 8.67/10
 
 $ cat developer_profile.json
 {
